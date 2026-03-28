@@ -1,0 +1,1001 @@
+product_id,product_name,category,discounted_price,actual_price,discount_percentage,rating,rating_count,about_product,review_content
+B000000000,Sample Product 0,Home|Kitchen|Appliances,₹2608,₹7679,49%,4.9,"46,490",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000001,Sample Product 1,Clothing|Men|Shirts,₹2879,₹2060,75%,3.8,"44,911",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000002,Sample Product 2,Electronics|TV|Smart,₹1024,₹1766,67%,2.2,"24,882",Great quality product with nice features.,Do not buy this waste of money.
+B000000003,Sample Product 3,Home|Kitchen|Appliances,₹3056,₹4138,77%,2.2,"35,423",Great quality product with nice features.,"Terrible, broke after one day."
+B000000004,Sample Product 4,Home|Kitchen|Appliances,₹1681,₹9441,23%,4.9,"11,985",Great quality product with nice features.,"Terrible, broke after one day."
+B000000005,Sample Product 5,Clothing|Men|Shirts,₹3424,₹3927,51%,2.9,"23,777",Great quality product with nice features.,Do not buy this waste of money.
+B000000006,Sample Product 6,Electronics|TV|Smart,₹4585,₹5280,18%,2.3,"17,756",Great quality product with nice features.,Do not buy this waste of money.
+B000000007,Sample Product 7,Electronics|TV|Smart,₹355,₹2427,42%,3.8,"7,136",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000008,Sample Product 8,Home|Kitchen|Appliances,₹4904,₹2856,57%,3.9,321,Great quality product with nice features.,"It is okay, nothing special."
+B000000009,Sample Product 9,Computers|Laptops|Gaming,₹1938,₹5290,65%,3.9,"37,423",Great quality product with nice features.,"Terrible, broke after one day."
+B000000010,Sample Product 10,Home|Kitchen|Appliances,₹2044,₹806,40%,2.8,"28,636",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000011,Sample Product 11,Home|Kitchen|Appliances,₹109,₹8479,44%,2.0,"21,685",Great quality product with nice features.,Do not buy this waste of money.
+B000000012,Sample Product 12,Home|Kitchen|Appliances,₹2971,₹4165,34%,4.9,"23,239",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000013,Sample Product 13,Home|Kitchen|Appliances,₹897,₹7557,13%,2.8,"21,890",Great quality product with nice features.,Do not buy this waste of money.
+B000000014,Sample Product 14,Clothing|Men|Shirts,₹1115,₹1161,68%,4.0,"30,314",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000015,Sample Product 15,Electronics|TV|Smart,₹1924,₹5144,37%,4.1,"32,536",Great quality product with nice features.,Do not buy this waste of money.
+B000000016,Sample Product 16,Clothing|Men|Shirts,₹4569,₹9003,56%,3.8,"48,900",Great quality product with nice features.,Do not buy this waste of money.
+B000000017,Sample Product 17,Clothing|Men|Shirts,₹3236,₹3420,18%,2.9,"10,771",Great quality product with nice features.,Do not buy this waste of money.
+B000000018,Sample Product 18,Clothing|Men|Shirts,₹2293,₹9774,79%,2.8,"39,322",Great quality product with nice features.,"It is okay, nothing special."
+B000000019,Sample Product 19,Home|Kitchen|Appliances,₹323,₹9446,57%,3.8,"20,427",Great quality product with nice features.,Do not buy this waste of money.
+B000000020,Sample Product 20,Computers|Laptops|Gaming,₹4258,₹6736,63%,4.6,"44,328",Great quality product with nice features.,"Terrible, broke after one day."
+B000000021,Sample Product 21,Electronics|TV|Smart,₹4025,₹6578,45%,4.8,"41,778",Great quality product with nice features.,"Terrible, broke after one day."
+B000000022,Sample Product 22,Computers|Laptops|Gaming,₹4884,₹852,72%,2.3,"46,251",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000023,Sample Product 23,Clothing|Men|Shirts,₹4100,₹9594,72%,2.5,"7,499",Great quality product with nice features.,"It is okay, nothing special."
+B000000024,Sample Product 24,Clothing|Men|Shirts,₹1733,₹7505,12%,4.8,"39,405",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000025,Sample Product 25,Computers|Laptops|Gaming,₹2252,₹658,6%,4.2,"40,131",Great quality product with nice features.,"Terrible, broke after one day."
+B000000026,Sample Product 26,Computers|Laptops|Gaming,₹610,₹1456,45%,4.6,"16,396",Great quality product with nice features.,"Terrible, broke after one day."
+B000000027,Sample Product 27,Computers|Laptops|Gaming,₹484,₹2571,59%,2.6,"49,347",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000028,Sample Product 28,Clothing|Men|Shirts,₹504,₹9095,20%,3.8,"2,538",Great quality product with nice features.,Do not buy this waste of money.
+B000000029,Sample Product 29,Clothing|Men|Shirts,₹4713,₹3953,66%,4.1,"19,227",Great quality product with nice features.,"Terrible, broke after one day."
+B000000030,Sample Product 30,Electronics|TV|Smart,₹4671,₹7175,52%,4.0,"15,217",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000031,Sample Product 31,Electronics|TV|Smart,₹2100,₹1455,34%,3.2,"18,614",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000032,Sample Product 32,Clothing|Men|Shirts,₹2856,₹6795,16%,2.0,"3,010",Great quality product with nice features.,Do not buy this waste of money.
+B000000033,Sample Product 33,Computers|Laptops|Gaming,₹1768,₹2212,39%,3.7,"24,369",Great quality product with nice features.,Do not buy this waste of money.
+B000000034,Sample Product 34,Computers|Laptops|Gaming,₹1560,₹5203,15%,2.8,"29,328",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000035,Sample Product 35,Electronics|TV|Smart,₹3736,₹7063,68%,3.4,"14,210",Great quality product with nice features.,"It is okay, nothing special."
+B000000036,Sample Product 36,Clothing|Men|Shirts,₹2824,₹9965,54%,4.9,"48,444",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000037,Sample Product 37,Electronics|TV|Smart,₹4909,₹6131,25%,3.2,"15,030",Great quality product with nice features.,Do not buy this waste of money.
+B000000038,Sample Product 38,Electronics|TV|Smart,₹4278,₹1894,73%,4.5,"2,078",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000039,Sample Product 39,Home|Kitchen|Appliances,₹2148,₹9961,52%,2.6,"13,908",Great quality product with nice features.,Do not buy this waste of money.
+B000000040,Sample Product 40,Home|Kitchen|Appliances,₹4246,₹5232,24%,4.0,"36,636",Great quality product with nice features.,"Terrible, broke after one day."
+B000000041,Sample Product 41,Home|Kitchen|Appliances,₹4880,₹4214,71%,4.9,"48,921",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000042,Sample Product 42,Computers|Laptops|Gaming,₹816,₹1029,48%,2.3,"4,874",Great quality product with nice features.,"Terrible, broke after one day."
+B000000043,Sample Product 43,Clothing|Men|Shirts,₹4644,₹3458,37%,2.0,"8,636",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000044,Sample Product 44,Clothing|Men|Shirts,₹4683,₹8404,77%,3.3,"33,066",Great quality product with nice features.,"It is okay, nothing special."
+B000000045,Sample Product 45,Clothing|Men|Shirts,₹1923,₹4091,65%,2.3,"45,864",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000046,Sample Product 46,Clothing|Men|Shirts,₹2181,₹7395,13%,4.2,"41,805",Great quality product with nice features.,"Terrible, broke after one day."
+B000000047,Sample Product 47,Home|Kitchen|Appliances,₹3519,₹9631,72%,4.7,"33,784",Great quality product with nice features.,Do not buy this waste of money.
+B000000048,Sample Product 48,Computers|Laptops|Gaming,₹1674,₹1025,39%,3.3,"34,153",Great quality product with nice features.,"It is okay, nothing special."
+B000000049,Sample Product 49,Computers|Laptops|Gaming,₹349,₹6977,69%,2.8,"41,514",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000050,Sample Product 50,Home|Kitchen|Appliances,₹773,₹501,12%,3.3,"29,093",Great quality product with nice features.,"Terrible, broke after one day."
+B000000051,Sample Product 51,Computers|Laptops|Gaming,₹4633,₹874,49%,4.2,"17,654",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000052,Sample Product 52,Home|Kitchen|Appliances,₹2265,₹5148,51%,2.0,"32,464",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000053,Sample Product 53,Clothing|Men|Shirts,₹870,₹2865,44%,3.8,"34,029",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000054,Sample Product 54,Home|Kitchen|Appliances,₹4062,₹2025,58%,3.8,"40,470",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000055,Sample Product 55,Clothing|Men|Shirts,₹4463,₹2146,50%,3.9,"20,948",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000056,Sample Product 56,Clothing|Men|Shirts,₹2084,₹513,51%,2.7,"29,979",Great quality product with nice features.,Do not buy this waste of money.
+B000000057,Sample Product 57,Electronics|TV|Smart,₹1177,₹5099,19%,4.1,"22,057",Great quality product with nice features.,"Terrible, broke after one day."
+B000000058,Sample Product 58,Home|Kitchen|Appliances,₹335,₹2778,23%,2.3,"29,008",Great quality product with nice features.,"It is okay, nothing special."
+B000000059,Sample Product 59,Electronics|TV|Smart,₹488,₹3655,30%,2.6,"43,170",Great quality product with nice features.,"It is okay, nothing special."
+B000000060,Sample Product 60,Home|Kitchen|Appliances,₹3137,₹8821,56%,4.6,"48,288",Great quality product with nice features.,"It is okay, nothing special."
+B000000061,Sample Product 61,Home|Kitchen|Appliances,₹4958,₹4314,26%,4.2,"44,633",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000062,Sample Product 62,Electronics|TV|Smart,₹1948,₹3716,25%,2.0,"48,450",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000063,Sample Product 63,Electronics|TV|Smart,₹4819,₹8719,55%,2.7,"5,544",Great quality product with nice features.,"Terrible, broke after one day."
+B000000064,Sample Product 64,Home|Kitchen|Appliances,₹2914,₹2613,42%,2.6,"21,068",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000065,Sample Product 65,Computers|Laptops|Gaming,₹3474,₹9944,24%,2.8,"45,257",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000066,Sample Product 66,Clothing|Men|Shirts,₹3378,₹4856,33%,2.7,"25,098",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000067,Sample Product 67,Electronics|TV|Smart,₹1352,₹6043,55%,2.2,"42,848",Great quality product with nice features.,"Terrible, broke after one day."
+B000000068,Sample Product 68,Clothing|Men|Shirts,₹4081,₹5055,8%,3.4,"43,513",Great quality product with nice features.,"Terrible, broke after one day."
+B000000069,Sample Product 69,Computers|Laptops|Gaming,₹4773,₹7562,59%,4.2,"3,810",Great quality product with nice features.,"Terrible, broke after one day."
+B000000070,Sample Product 70,Computers|Laptops|Gaming,₹2222,₹3874,75%,3.8,"22,192",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000071,Sample Product 71,Computers|Laptops|Gaming,₹4630,₹6930,32%,4.0,"21,268",Great quality product with nice features.,Do not buy this waste of money.
+B000000072,Sample Product 72,Electronics|TV|Smart,₹2250,₹3966,8%,2.2,"7,207",Great quality product with nice features.,"Terrible, broke after one day."
+B000000073,Sample Product 73,Computers|Laptops|Gaming,₹4959,₹3581,26%,4.9,"21,058",Great quality product with nice features.,Do not buy this waste of money.
+B000000074,Sample Product 74,Electronics|TV|Smart,₹1429,₹1129,49%,4.5,"28,993",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000075,Sample Product 75,Computers|Laptops|Gaming,₹1458,₹769,71%,4.4,"46,515",Great quality product with nice features.,Do not buy this waste of money.
+B000000076,Sample Product 76,Clothing|Men|Shirts,₹2582,₹6224,70%,4.5,"15,996",Great quality product with nice features.,"It is okay, nothing special."
+B000000077,Sample Product 77,Clothing|Men|Shirts,₹4642,₹6397,38%,4.8,"48,804",Great quality product with nice features.,Do not buy this waste of money.
+B000000078,Sample Product 78,Home|Kitchen|Appliances,₹2117,₹3932,59%,3.6,"44,440",Great quality product with nice features.,"Terrible, broke after one day."
+B000000079,Sample Product 79,Clothing|Men|Shirts,₹1431,₹9972,5%,2.6,"13,211",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000080,Sample Product 80,Home|Kitchen|Appliances,₹4444,₹6776,76%,3.9,"17,794",Great quality product with nice features.,"Terrible, broke after one day."
+B000000081,Sample Product 81,Clothing|Men|Shirts,₹4361,₹6395,42%,4.2,"26,271",Great quality product with nice features.,"It is okay, nothing special."
+B000000082,Sample Product 82,Electronics|TV|Smart,₹1458,₹7615,10%,4.2,"5,198",Great quality product with nice features.,"Terrible, broke after one day."
+B000000083,Sample Product 83,Clothing|Men|Shirts,₹4737,₹7156,29%,3.6,"48,322",Great quality product with nice features.,"Terrible, broke after one day."
+B000000084,Sample Product 84,Home|Kitchen|Appliances,₹4954,₹1075,21%,2.2,"7,453",Great quality product with nice features.,"Terrible, broke after one day."
+B000000085,Sample Product 85,Home|Kitchen|Appliances,₹3277,₹7529,65%,3.1,"41,487",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000086,Sample Product 86,Computers|Laptops|Gaming,₹2228,₹6599,16%,4.8,"14,860",Great quality product with nice features.,"It is okay, nothing special."
+B000000087,Sample Product 87,Electronics|TV|Smart,₹2280,₹9999,10%,3.8,"27,237",Great quality product with nice features.,"Terrible, broke after one day."
+B000000088,Sample Product 88,Clothing|Men|Shirts,₹4992,₹3692,31%,3.6,"31,900",Great quality product with nice features.,"Terrible, broke after one day."
+B000000089,Sample Product 89,Computers|Laptops|Gaming,₹237,₹3678,12%,2.8,"32,084",Great quality product with nice features.,"Terrible, broke after one day."
+B000000090,Sample Product 90,Clothing|Men|Shirts,₹3572,₹6552,69%,3.1,"2,173",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000091,Sample Product 91,Clothing|Men|Shirts,₹2932,₹3234,61%,4.7,"45,927",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000092,Sample Product 92,Computers|Laptops|Gaming,₹3679,₹6616,44%,4.0,"16,664",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000093,Sample Product 93,Computers|Laptops|Gaming,₹3131,₹4068,18%,4.4,"27,541",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000094,Sample Product 94,Computers|Laptops|Gaming,₹4264,₹2703,39%,3.4,"19,054",Great quality product with nice features.,"Terrible, broke after one day."
+B000000095,Sample Product 95,Computers|Laptops|Gaming,₹2693,₹1890,52%,3.9,"11,086",Great quality product with nice features.,"It is okay, nothing special."
+B000000096,Sample Product 96,Computers|Laptops|Gaming,₹4400,₹2242,60%,2.7,"30,565",Great quality product with nice features.,Do not buy this waste of money.
+B000000097,Sample Product 97,Clothing|Men|Shirts,₹3918,₹2425,53%,4.1,"24,210",Great quality product with nice features.,Do not buy this waste of money.
+B000000098,Sample Product 98,Computers|Laptops|Gaming,₹4238,₹1119,17%,3.3,"3,982",Great quality product with nice features.,"Terrible, broke after one day."
+B000000099,Sample Product 99,Electronics|TV|Smart,₹3923,₹1774,65%,3.3,"21,154",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000100,Sample Product 100,Home|Kitchen|Appliances,₹4142,₹1456,53%,3.9,"5,248",Great quality product with nice features.,"It is okay, nothing special."
+B000000101,Sample Product 101,Computers|Laptops|Gaming,₹2006,₹2439,50%,4.8,"10,554",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000102,Sample Product 102,Computers|Laptops|Gaming,₹860,₹4453,66%,2.2,"20,812",Great quality product with nice features.,"Terrible, broke after one day."
+B000000103,Sample Product 103,Clothing|Men|Shirts,₹3545,₹1468,12%,4.5,"29,846",Great quality product with nice features.,"It is okay, nothing special."
+B000000104,Sample Product 104,Computers|Laptops|Gaming,₹999,₹9735,47%,2.9,"6,136",Great quality product with nice features.,"It is okay, nothing special."
+B000000105,Sample Product 105,Computers|Laptops|Gaming,₹4555,₹781,24%,3.3,"5,574",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000106,Sample Product 106,Computers|Laptops|Gaming,₹3047,₹6762,43%,2.1,"13,732",Great quality product with nice features.,"It is okay, nothing special."
+B000000107,Sample Product 107,Clothing|Men|Shirts,₹1819,₹1558,53%,2.9,"7,190",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000108,Sample Product 108,Computers|Laptops|Gaming,₹380,₹4793,68%,3.5,"14,542",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000109,Sample Product 109,Home|Kitchen|Appliances,₹3366,₹5678,66%,2.2,"43,647",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000110,Sample Product 110,Clothing|Men|Shirts,₹1987,₹7480,58%,3.5,"11,088",Great quality product with nice features.,"It is okay, nothing special."
+B000000111,Sample Product 111,Home|Kitchen|Appliances,₹3366,₹9700,13%,4.8,"46,436",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000112,Sample Product 112,Clothing|Men|Shirts,₹766,₹1729,41%,2.3,"2,777",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000113,Sample Product 113,Computers|Laptops|Gaming,₹4288,₹9727,53%,4.3,"42,080",Great quality product with nice features.,"It is okay, nothing special."
+B000000114,Sample Product 114,Home|Kitchen|Appliances,₹771,₹5085,45%,3.2,"27,565",Great quality product with nice features.,Do not buy this waste of money.
+B000000115,Sample Product 115,Clothing|Men|Shirts,₹2069,₹8967,21%,4.0,"28,836",Great quality product with nice features.,"It is okay, nothing special."
+B000000116,Sample Product 116,Electronics|TV|Smart,₹4256,₹3240,25%,2.8,"7,698",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000117,Sample Product 117,Computers|Laptops|Gaming,₹3222,₹2789,55%,2.5,"14,630",Great quality product with nice features.,Do not buy this waste of money.
+B000000118,Sample Product 118,Clothing|Men|Shirts,₹4799,₹1739,63%,2.5,"8,387",Great quality product with nice features.,"It is okay, nothing special."
+B000000119,Sample Product 119,Electronics|TV|Smart,₹4877,₹5870,43%,2.2,"17,047",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000120,Sample Product 120,Clothing|Men|Shirts,₹4000,₹625,59%,2.6,"8,045",Great quality product with nice features.,"Terrible, broke after one day."
+B000000121,Sample Product 121,Electronics|TV|Smart,₹623,₹7973,45%,4.0,"9,616",Great quality product with nice features.,"Terrible, broke after one day."
+B000000122,Sample Product 122,Computers|Laptops|Gaming,₹2493,₹9900,43%,4.6,"47,803",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000123,Sample Product 123,Home|Kitchen|Appliances,₹3217,₹5842,17%,4.4,"5,061",Great quality product with nice features.,"Terrible, broke after one day."
+B000000124,Sample Product 124,Electronics|TV|Smart,₹2693,₹7851,68%,4.1,"10,901",Great quality product with nice features.,"Terrible, broke after one day."
+B000000125,Sample Product 125,Clothing|Men|Shirts,₹2068,₹7138,15%,2.3,"5,582",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000126,Sample Product 126,Computers|Laptops|Gaming,₹1853,₹7070,23%,2.9,"34,783",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000127,Sample Product 127,Electronics|TV|Smart,₹2396,₹3749,15%,2.9,"20,174",Great quality product with nice features.,"It is okay, nothing special."
+B000000128,Sample Product 128,Clothing|Men|Shirts,₹2361,₹9610,50%,2.7,"12,998",Great quality product with nice features.,"It is okay, nothing special."
+B000000129,Sample Product 129,Clothing|Men|Shirts,₹2386,₹8095,49%,3.5,"43,404",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000130,Sample Product 130,Clothing|Men|Shirts,₹4302,₹6794,5%,3.6,"46,417",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000131,Sample Product 131,Electronics|TV|Smart,₹2978,₹7027,44%,3.1,"7,149",Great quality product with nice features.,"Terrible, broke after one day."
+B000000132,Sample Product 132,Electronics|TV|Smart,₹4243,₹6257,23%,3.1,"18,749",Great quality product with nice features.,"It is okay, nothing special."
+B000000133,Sample Product 133,Electronics|TV|Smart,₹3744,₹2469,76%,4.5,"14,023",Great quality product with nice features.,"Terrible, broke after one day."
+B000000134,Sample Product 134,Home|Kitchen|Appliances,₹4532,₹1391,76%,4.4,"20,014",Great quality product with nice features.,Do not buy this waste of money.
+B000000135,Sample Product 135,Electronics|TV|Smart,₹2155,₹4970,65%,2.9,"38,688",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000136,Sample Product 136,Electronics|TV|Smart,₹4820,₹7675,16%,4.7,"15,887",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000137,Sample Product 137,Electronics|TV|Smart,₹1376,₹8820,65%,4.9,"25,257",Great quality product with nice features.,Do not buy this waste of money.
+B000000138,Sample Product 138,Home|Kitchen|Appliances,₹2866,₹9706,37%,3.0,"30,006",Great quality product with nice features.,Do not buy this waste of money.
+B000000139,Sample Product 139,Electronics|TV|Smart,₹402,₹7312,49%,3.1,"6,639",Great quality product with nice features.,Do not buy this waste of money.
+B000000140,Sample Product 140,Clothing|Men|Shirts,₹738,₹8019,73%,3.5,"37,420",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000141,Sample Product 141,Electronics|TV|Smart,₹155,₹5112,12%,4.8,"33,378",Great quality product with nice features.,"It is okay, nothing special."
+B000000142,Sample Product 142,Clothing|Men|Shirts,₹4921,₹1698,29%,4.6,"40,709",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000143,Sample Product 143,Clothing|Men|Shirts,₹625,₹5738,50%,2.3,"43,117",Great quality product with nice features.,"It is okay, nothing special."
+B000000144,Sample Product 144,Clothing|Men|Shirts,₹4669,₹6589,34%,3.2,"36,635",Great quality product with nice features.,Do not buy this waste of money.
+B000000145,Sample Product 145,Home|Kitchen|Appliances,₹4223,₹6757,51%,3.7,"16,756",Great quality product with nice features.,Do not buy this waste of money.
+B000000146,Sample Product 146,Home|Kitchen|Appliances,₹2225,₹8205,53%,3.5,"23,383",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000147,Sample Product 147,Home|Kitchen|Appliances,₹3387,₹4219,51%,2.6,"49,768",Great quality product with nice features.,"It is okay, nothing special."
+B000000148,Sample Product 148,Electronics|TV|Smart,₹464,₹802,22%,4.6,"22,395",Great quality product with nice features.,Do not buy this waste of money.
+B000000149,Sample Product 149,Clothing|Men|Shirts,₹4721,₹1486,70%,4.0,"2,254",Great quality product with nice features.,"Terrible, broke after one day."
+B000000150,Sample Product 150,Home|Kitchen|Appliances,₹1746,₹4940,72%,4.5,"37,711",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000151,Sample Product 151,Home|Kitchen|Appliances,₹1018,₹5409,37%,4.6,"45,099",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000152,Sample Product 152,Electronics|TV|Smart,₹2897,₹3572,40%,4.2,865,Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000153,Sample Product 153,Home|Kitchen|Appliances,₹1631,₹3624,23%,3.3,"34,037",Great quality product with nice features.,"Terrible, broke after one day."
+B000000154,Sample Product 154,Electronics|TV|Smart,₹3445,₹8625,32%,3.8,"40,223",Great quality product with nice features.,"It is okay, nothing special."
+B000000155,Sample Product 155,Computers|Laptops|Gaming,₹2006,₹3791,44%,2.5,"13,667",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000156,Sample Product 156,Home|Kitchen|Appliances,₹3186,₹4533,19%,4.0,"20,956",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000157,Sample Product 157,Computers|Laptops|Gaming,₹4680,₹5605,45%,2.5,"45,139",Great quality product with nice features.,"It is okay, nothing special."
+B000000158,Sample Product 158,Electronics|TV|Smart,₹2175,₹1203,43%,4.1,"37,998",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000159,Sample Product 159,Clothing|Men|Shirts,₹813,₹8633,6%,2.7,"16,310",Great quality product with nice features.,Do not buy this waste of money.
+B000000160,Sample Product 160,Home|Kitchen|Appliances,₹1162,₹1074,67%,2.4,"4,055",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000161,Sample Product 161,Electronics|TV|Smart,₹2076,₹6204,33%,2.5,936,Great quality product with nice features.,"Terrible, broke after one day."
+B000000162,Sample Product 162,Clothing|Men|Shirts,₹1396,₹8348,78%,2.0,"44,941",Great quality product with nice features.,Do not buy this waste of money.
+B000000163,Sample Product 163,Clothing|Men|Shirts,₹225,₹5708,70%,4.2,"22,779",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000164,Sample Product 164,Computers|Laptops|Gaming,₹4732,₹7424,55%,4.2,"43,299",Great quality product with nice features.,"It is okay, nothing special."
+B000000165,Sample Product 165,Electronics|TV|Smart,₹3696,₹4328,79%,3.5,"48,329",Great quality product with nice features.,"Terrible, broke after one day."
+B000000166,Sample Product 166,Clothing|Men|Shirts,₹3383,₹3730,14%,2.5,"48,925",Great quality product with nice features.,"Terrible, broke after one day."
+B000000167,Sample Product 167,Home|Kitchen|Appliances,₹1703,₹988,18%,2.3,"16,710",Great quality product with nice features.,"Terrible, broke after one day."
+B000000168,Sample Product 168,Home|Kitchen|Appliances,₹166,₹7614,55%,2.1,"9,727",Great quality product with nice features.,Do not buy this waste of money.
+B000000169,Sample Product 169,Computers|Laptops|Gaming,₹332,₹3673,77%,2.5,"40,543",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000170,Sample Product 170,Clothing|Men|Shirts,₹2256,₹2167,43%,4.7,"20,246",Great quality product with nice features.,Do not buy this waste of money.
+B000000171,Sample Product 171,Electronics|TV|Smart,₹1269,₹4614,32%,2.7,"34,754",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000172,Sample Product 172,Home|Kitchen|Appliances,₹2258,₹4053,7%,3.1,"14,253",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000173,Sample Product 173,Clothing|Men|Shirts,₹4306,₹8261,74%,2.3,"21,317",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000174,Sample Product 174,Clothing|Men|Shirts,₹1593,₹1500,31%,2.7,"37,372",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000175,Sample Product 175,Computers|Laptops|Gaming,₹4818,₹9542,6%,3.6,"19,163",Great quality product with nice features.,Do not buy this waste of money.
+B000000176,Sample Product 176,Home|Kitchen|Appliances,₹4107,₹1888,42%,3.8,"15,961",Great quality product with nice features.,"Terrible, broke after one day."
+B000000177,Sample Product 177,Home|Kitchen|Appliances,₹2572,₹5950,7%,2.7,"30,792",Great quality product with nice features.,"It is okay, nothing special."
+B000000178,Sample Product 178,Electronics|TV|Smart,₹2760,₹4212,20%,2.2,"42,231",Great quality product with nice features.,"Terrible, broke after one day."
+B000000179,Sample Product 179,Home|Kitchen|Appliances,₹2839,₹1867,44%,3.2,"25,217",Great quality product with nice features.,Do not buy this waste of money.
+B000000180,Sample Product 180,Electronics|TV|Smart,₹1861,₹8689,6%,2.7,"32,468",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000181,Sample Product 181,Home|Kitchen|Appliances,₹3614,₹9513,45%,2.7,"46,935",Great quality product with nice features.,"Terrible, broke after one day."
+B000000182,Sample Product 182,Computers|Laptops|Gaming,₹2075,₹954,16%,4.9,"7,755",Great quality product with nice features.,Do not buy this waste of money.
+B000000183,Sample Product 183,Home|Kitchen|Appliances,₹2462,₹3272,39%,3.8,"47,015",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000184,Sample Product 184,Electronics|TV|Smart,₹976,₹4226,69%,3.7,"4,079",Great quality product with nice features.,"It is okay, nothing special."
+B000000185,Sample Product 185,Electronics|TV|Smart,₹3912,₹7732,59%,3.2,"12,854",Great quality product with nice features.,"Terrible, broke after one day."
+B000000186,Sample Product 186,Computers|Laptops|Gaming,₹3548,₹5306,49%,3.3,"4,043",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000187,Sample Product 187,Home|Kitchen|Appliances,₹1412,₹2690,66%,3.6,"49,053",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000188,Sample Product 188,Home|Kitchen|Appliances,₹1560,₹9608,53%,4.1,"14,390",Great quality product with nice features.,Do not buy this waste of money.
+B000000189,Sample Product 189,Computers|Laptops|Gaming,₹2809,₹3375,29%,4.1,"30,426",Great quality product with nice features.,"It is okay, nothing special."
+B000000190,Sample Product 190,Home|Kitchen|Appliances,₹2424,₹6092,27%,2.5,"2,576",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000191,Sample Product 191,Home|Kitchen|Appliances,₹1833,₹1940,28%,3.5,"39,523",Great quality product with nice features.,Do not buy this waste of money.
+B000000192,Sample Product 192,Electronics|TV|Smart,₹1705,₹9427,42%,3.2,"28,180",Great quality product with nice features.,Do not buy this waste of money.
+B000000193,Sample Product 193,Home|Kitchen|Appliances,₹2663,₹6559,32%,4.6,"34,755",Great quality product with nice features.,"Terrible, broke after one day."
+B000000194,Sample Product 194,Home|Kitchen|Appliances,₹3521,₹7510,25%,3.9,"18,625",Great quality product with nice features.,"Terrible, broke after one day."
+B000000195,Sample Product 195,Computers|Laptops|Gaming,₹3617,₹7617,58%,3.6,"20,351",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000196,Sample Product 196,Computers|Laptops|Gaming,₹2497,₹9653,22%,2.3,"26,682",Great quality product with nice features.,Do not buy this waste of money.
+B000000197,Sample Product 197,Clothing|Men|Shirts,₹3835,₹3489,40%,3.8,"23,989",Great quality product with nice features.,"Terrible, broke after one day."
+B000000198,Sample Product 198,Electronics|TV|Smart,₹2970,₹9718,49%,2.4,"15,471",Great quality product with nice features.,"It is okay, nothing special."
+B000000199,Sample Product 199,Home|Kitchen|Appliances,₹1260,₹6728,77%,3.0,"24,705",Great quality product with nice features.,"It is okay, nothing special."
+B000000200,Sample Product 200,Home|Kitchen|Appliances,₹4954,₹6971,57%,2.4,"38,737",Great quality product with nice features.,Do not buy this waste of money.
+B000000201,Sample Product 201,Clothing|Men|Shirts,₹342,₹3363,34%,4.1,"29,378",Great quality product with nice features.,"Terrible, broke after one day."
+B000000202,Sample Product 202,Home|Kitchen|Appliances,₹2690,₹1677,64%,2.6,"28,573",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000203,Sample Product 203,Electronics|TV|Smart,₹1163,₹5260,36%,3.2,"7,494",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000204,Sample Product 204,Clothing|Men|Shirts,₹4424,₹511,71%,4.7,"4,104",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000205,Sample Product 205,Electronics|TV|Smart,₹2695,₹5752,71%,2.6,"34,845",Great quality product with nice features.,"It is okay, nothing special."
+B000000206,Sample Product 206,Clothing|Men|Shirts,₹1019,₹4899,32%,3.5,"2,995",Great quality product with nice features.,"Terrible, broke after one day."
+B000000207,Sample Product 207,Clothing|Men|Shirts,₹105,₹8734,48%,3.3,"3,745",Great quality product with nice features.,"Terrible, broke after one day."
+B000000208,Sample Product 208,Computers|Laptops|Gaming,₹567,₹9635,45%,2.1,"47,235",Great quality product with nice features.,"It is okay, nothing special."
+B000000209,Sample Product 209,Electronics|TV|Smart,₹4270,₹5945,67%,4.4,"47,292",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000210,Sample Product 210,Home|Kitchen|Appliances,₹103,₹7070,27%,2.2,"27,333",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000211,Sample Product 211,Home|Kitchen|Appliances,₹745,₹9696,79%,3.4,"5,595",Great quality product with nice features.,Do not buy this waste of money.
+B000000212,Sample Product 212,Electronics|TV|Smart,₹217,₹8712,52%,3.7,"40,300",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000213,Sample Product 213,Home|Kitchen|Appliances,₹3028,₹906,36%,3.9,"7,372",Great quality product with nice features.,"Terrible, broke after one day."
+B000000214,Sample Product 214,Home|Kitchen|Appliances,₹2651,₹9706,61%,4.1,"47,316",Great quality product with nice features.,"Terrible, broke after one day."
+B000000215,Sample Product 215,Electronics|TV|Smart,₹4389,₹4931,37%,2.8,"18,029",Great quality product with nice features.,"Terrible, broke after one day."
+B000000216,Sample Product 216,Clothing|Men|Shirts,₹946,₹5743,28%,2.0,"35,913",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000217,Sample Product 217,Electronics|TV|Smart,₹2862,₹7042,43%,4.2,"13,991",Great quality product with nice features.,Do not buy this waste of money.
+B000000218,Sample Product 218,Clothing|Men|Shirts,₹1241,₹7436,38%,3.6,"46,852",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000219,Sample Product 219,Home|Kitchen|Appliances,₹1910,₹9406,60%,4.5,"16,627",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000220,Sample Product 220,Home|Kitchen|Appliances,₹823,₹4646,32%,4.5,"20,470",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000221,Sample Product 221,Home|Kitchen|Appliances,₹324,₹640,41%,4.5,"40,723",Great quality product with nice features.,"Terrible, broke after one day."
+B000000222,Sample Product 222,Computers|Laptops|Gaming,₹4727,₹5382,11%,3.5,"40,038",Great quality product with nice features.,"It is okay, nothing special."
+B000000223,Sample Product 223,Clothing|Men|Shirts,₹4308,₹6512,72%,3.0,"7,131",Great quality product with nice features.,"Terrible, broke after one day."
+B000000224,Sample Product 224,Computers|Laptops|Gaming,₹4754,₹1463,41%,4.4,"6,829",Great quality product with nice features.,"It is okay, nothing special."
+B000000225,Sample Product 225,Computers|Laptops|Gaming,₹2148,₹7651,60%,3.4,"41,613",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000226,Sample Product 226,Electronics|TV|Smart,₹4849,₹9064,69%,2.6,"46,989",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000227,Sample Product 227,Computers|Laptops|Gaming,₹4515,₹4110,69%,4.6,"39,100",Great quality product with nice features.,"It is okay, nothing special."
+B000000228,Sample Product 228,Electronics|TV|Smart,₹1673,₹7394,51%,4.6,"46,166",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000229,Sample Product 229,Electronics|TV|Smart,₹1928,₹7811,24%,3.4,"17,884",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000230,Sample Product 230,Computers|Laptops|Gaming,₹2017,₹605,23%,2.2,"43,060",Great quality product with nice features.,"It is okay, nothing special."
+B000000231,Sample Product 231,Clothing|Men|Shirts,₹4334,₹6039,33%,3.2,"18,543",Great quality product with nice features.,"Terrible, broke after one day."
+B000000232,Sample Product 232,Clothing|Men|Shirts,₹2126,₹7287,78%,4.4,"42,933",Great quality product with nice features.,"Terrible, broke after one day."
+B000000233,Sample Product 233,Clothing|Men|Shirts,₹3844,₹2637,64%,4.7,"10,451",Great quality product with nice features.,"Terrible, broke after one day."
+B000000234,Sample Product 234,Clothing|Men|Shirts,₹1001,₹4945,22%,2.6,"20,424",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000235,Sample Product 235,Clothing|Men|Shirts,₹4885,₹4030,39%,2.2,"2,036",Great quality product with nice features.,"Terrible, broke after one day."
+B000000236,Sample Product 236,Computers|Laptops|Gaming,₹2139,₹1786,47%,4.6,"44,232",Great quality product with nice features.,Do not buy this waste of money.
+B000000237,Sample Product 237,Computers|Laptops|Gaming,₹109,₹7552,15%,3.2,"40,746",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000238,Sample Product 238,Home|Kitchen|Appliances,₹360,₹4154,53%,3.6,"17,242",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000239,Sample Product 239,Clothing|Men|Shirts,₹1773,₹7602,42%,4.9,"23,155",Great quality product with nice features.,"Terrible, broke after one day."
+B000000240,Sample Product 240,Computers|Laptops|Gaming,₹2319,₹2859,68%,2.2,"25,626",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000241,Sample Product 241,Home|Kitchen|Appliances,₹2160,₹8605,73%,3.9,"44,951",Great quality product with nice features.,"It is okay, nothing special."
+B000000242,Sample Product 242,Clothing|Men|Shirts,₹3813,₹9136,12%,2.2,"33,067",Great quality product with nice features.,"Terrible, broke after one day."
+B000000243,Sample Product 243,Electronics|TV|Smart,₹1719,₹6941,38%,3.1,"33,692",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000244,Sample Product 244,Home|Kitchen|Appliances,₹420,₹5547,52%,4.4,"13,332",Great quality product with nice features.,Do not buy this waste of money.
+B000000245,Sample Product 245,Computers|Laptops|Gaming,₹1442,₹8727,60%,3.3,"20,691",Great quality product with nice features.,"It is okay, nothing special."
+B000000246,Sample Product 246,Electronics|TV|Smart,₹2476,₹5703,69%,5.0,"19,184",Great quality product with nice features.,Do not buy this waste of money.
+B000000247,Sample Product 247,Electronics|TV|Smart,₹2932,₹2298,35%,3.7,"39,347",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000248,Sample Product 248,Electronics|TV|Smart,₹2924,₹5791,8%,3.0,"4,876",Great quality product with nice features.,Do not buy this waste of money.
+B000000249,Sample Product 249,Home|Kitchen|Appliances,₹2094,₹5995,54%,2.7,"12,255",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000250,Sample Product 250,Computers|Laptops|Gaming,₹3058,₹6784,73%,3.1,"28,622",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000251,Sample Product 251,Electronics|TV|Smart,₹2138,₹7785,34%,3.1,"10,906",Great quality product with nice features.,Do not buy this waste of money.
+B000000252,Sample Product 252,Clothing|Men|Shirts,₹3590,₹1800,63%,2.2,"46,122",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000253,Sample Product 253,Electronics|TV|Smart,₹3777,₹7369,71%,3.1,"15,883",Great quality product with nice features.,"Terrible, broke after one day."
+B000000254,Sample Product 254,Electronics|TV|Smart,₹1218,₹9935,79%,3.4,"19,042",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000255,Sample Product 255,Home|Kitchen|Appliances,₹1704,₹3597,49%,4.2,"29,099",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000256,Sample Product 256,Home|Kitchen|Appliances,₹4127,₹5116,8%,4.0,"42,432",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000257,Sample Product 257,Computers|Laptops|Gaming,₹335,₹509,30%,4.1,"33,710",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000258,Sample Product 258,Clothing|Men|Shirts,₹2069,₹6252,31%,2.0,"34,676",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000259,Sample Product 259,Home|Kitchen|Appliances,₹4529,₹6795,50%,2.7,"4,838",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000260,Sample Product 260,Electronics|TV|Smart,₹2008,₹5315,68%,4.0,"46,449",Great quality product with nice features.,Do not buy this waste of money.
+B000000261,Sample Product 261,Computers|Laptops|Gaming,₹475,₹1572,55%,3.5,"24,490",Great quality product with nice features.,"Terrible, broke after one day."
+B000000262,Sample Product 262,Electronics|TV|Smart,₹3630,₹3725,54%,2.0,"17,628",Great quality product with nice features.,"Terrible, broke after one day."
+B000000263,Sample Product 263,Electronics|TV|Smart,₹2735,₹1816,10%,4.4,"5,697",Great quality product with nice features.,"It is okay, nothing special."
+B000000264,Sample Product 264,Home|Kitchen|Appliances,₹1670,₹6199,63%,4.3,"48,995",Great quality product with nice features.,Do not buy this waste of money.
+B000000265,Sample Product 265,Computers|Laptops|Gaming,₹2660,₹7307,19%,3.6,"13,544",Great quality product with nice features.,Do not buy this waste of money.
+B000000266,Sample Product 266,Clothing|Men|Shirts,₹3491,₹7174,34%,2.2,"12,616",Great quality product with nice features.,"Terrible, broke after one day."
+B000000267,Sample Product 267,Clothing|Men|Shirts,₹3065,₹4183,46%,4.3,"1,467",Great quality product with nice features.,Do not buy this waste of money.
+B000000268,Sample Product 268,Home|Kitchen|Appliances,₹3743,₹7727,41%,3.8,"30,772",Great quality product with nice features.,"Terrible, broke after one day."
+B000000269,Sample Product 269,Home|Kitchen|Appliances,₹3950,₹3773,46%,4.3,"18,351",Great quality product with nice features.,Do not buy this waste of money.
+B000000270,Sample Product 270,Computers|Laptops|Gaming,₹972,₹7500,39%,4.3,376,Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000271,Sample Product 271,Clothing|Men|Shirts,₹1352,₹645,10%,4.4,"33,031",Great quality product with nice features.,"Terrible, broke after one day."
+B000000272,Sample Product 272,Clothing|Men|Shirts,₹1414,₹5510,72%,3.6,"20,747",Great quality product with nice features.,"Terrible, broke after one day."
+B000000273,Sample Product 273,Clothing|Men|Shirts,₹4920,₹3540,22%,2.4,"22,887",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000274,Sample Product 274,Electronics|TV|Smart,₹2998,₹982,77%,4.0,"44,349",Great quality product with nice features.,Do not buy this waste of money.
+B000000275,Sample Product 275,Clothing|Men|Shirts,₹177,₹3679,33%,3.9,"42,905",Great quality product with nice features.,Do not buy this waste of money.
+B000000276,Sample Product 276,Electronics|TV|Smart,₹2721,₹1749,63%,4.2,"32,652",Great quality product with nice features.,"Terrible, broke after one day."
+B000000277,Sample Product 277,Computers|Laptops|Gaming,₹4327,₹1130,51%,2.5,"7,834",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000278,Sample Product 278,Electronics|TV|Smart,₹700,₹9353,21%,2.6,"1,894",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000279,Sample Product 279,Computers|Laptops|Gaming,₹1165,₹3352,26%,4.7,"30,574",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000280,Sample Product 280,Clothing|Men|Shirts,₹2236,₹1487,72%,4.2,"31,372",Great quality product with nice features.,Do not buy this waste of money.
+B000000281,Sample Product 281,Clothing|Men|Shirts,₹2549,₹8122,73%,4.7,"40,875",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000282,Sample Product 282,Computers|Laptops|Gaming,₹2443,₹7827,41%,4.3,"11,827",Great quality product with nice features.,"Terrible, broke after one day."
+B000000283,Sample Product 283,Home|Kitchen|Appliances,₹1963,₹9341,53%,3.8,"34,421",Great quality product with nice features.,"It is okay, nothing special."
+B000000284,Sample Product 284,Computers|Laptops|Gaming,₹1418,₹9660,17%,4.0,"21,925",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000285,Sample Product 285,Home|Kitchen|Appliances,₹4811,₹1600,38%,4.7,"33,368",Great quality product with nice features.,"It is okay, nothing special."
+B000000286,Sample Product 286,Electronics|TV|Smart,₹3697,₹7152,57%,3.7,"21,200",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000287,Sample Product 287,Electronics|TV|Smart,₹3862,₹9132,55%,3.9,"25,869",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000288,Sample Product 288,Electronics|TV|Smart,₹4770,₹7921,7%,2.5,"8,793",Great quality product with nice features.,Do not buy this waste of money.
+B000000289,Sample Product 289,Clothing|Men|Shirts,₹2290,₹5516,46%,3.4,"20,598",Great quality product with nice features.,"It is okay, nothing special."
+B000000290,Sample Product 290,Electronics|TV|Smart,₹1092,₹1269,36%,4.1,"36,406",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000291,Sample Product 291,Home|Kitchen|Appliances,₹2812,₹1843,55%,2.8,"32,697",Great quality product with nice features.,Do not buy this waste of money.
+B000000292,Sample Product 292,Electronics|TV|Smart,₹2292,₹4858,50%,2.6,"43,124",Great quality product with nice features.,"It is okay, nothing special."
+B000000293,Sample Product 293,Computers|Laptops|Gaming,₹1348,₹7280,25%,2.9,"15,990",Great quality product with nice features.,"Terrible, broke after one day."
+B000000294,Sample Product 294,Computers|Laptops|Gaming,₹3154,₹7102,48%,2.7,"28,932",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000295,Sample Product 295,Clothing|Men|Shirts,₹4698,₹2849,15%,2.6,"9,291",Great quality product with nice features.,"Terrible, broke after one day."
+B000000296,Sample Product 296,Computers|Laptops|Gaming,₹4133,₹6199,72%,3.3,"38,368",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000297,Sample Product 297,Home|Kitchen|Appliances,₹2097,₹1741,5%,4.7,"14,343",Great quality product with nice features.,"Terrible, broke after one day."
+B000000298,Sample Product 298,Electronics|TV|Smart,₹3787,₹1625,67%,3.5,"24,942",Great quality product with nice features.,"Terrible, broke after one day."
+B000000299,Sample Product 299,Clothing|Men|Shirts,₹2251,₹9882,28%,2.6,"13,946",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000300,Sample Product 300,Electronics|TV|Smart,₹4118,₹7264,17%,2.2,"10,763",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000301,Sample Product 301,Electronics|TV|Smart,₹3210,₹5601,15%,4.1,"30,134",Great quality product with nice features.,"Terrible, broke after one day."
+B000000302,Sample Product 302,Home|Kitchen|Appliances,₹2070,₹8343,55%,3.1,"47,081",Great quality product with nice features.,Do not buy this waste of money.
+B000000303,Sample Product 303,Computers|Laptops|Gaming,₹297,₹572,21%,4.5,"40,151",Great quality product with nice features.,"It is okay, nothing special."
+B000000304,Sample Product 304,Computers|Laptops|Gaming,₹2726,₹5972,28%,4.0,"27,053",Great quality product with nice features.,"Terrible, broke after one day."
+B000000305,Sample Product 305,Electronics|TV|Smart,₹1302,₹5689,23%,4.4,"41,751",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000306,Sample Product 306,Clothing|Men|Shirts,₹2135,₹2972,41%,2.8,"19,954",Great quality product with nice features.,"Terrible, broke after one day."
+B000000307,Sample Product 307,Computers|Laptops|Gaming,₹577,₹1207,12%,4.1,"40,476",Great quality product with nice features.,"It is okay, nothing special."
+B000000308,Sample Product 308,Clothing|Men|Shirts,₹1354,₹2304,32%,2.8,"17,131",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000309,Sample Product 309,Computers|Laptops|Gaming,₹1022,₹7204,9%,4.8,"31,087",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000310,Sample Product 310,Clothing|Men|Shirts,₹519,₹4213,21%,3.9,"4,634",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000311,Sample Product 311,Home|Kitchen|Appliances,₹2304,₹5551,40%,3.0,"17,305",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000312,Sample Product 312,Clothing|Men|Shirts,₹2697,₹2975,23%,2.8,"42,038",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000313,Sample Product 313,Home|Kitchen|Appliances,₹1220,₹4110,68%,2.6,"32,285",Great quality product with nice features.,"It is okay, nothing special."
+B000000314,Sample Product 314,Home|Kitchen|Appliances,₹3168,₹4755,15%,4.1,"46,547",Great quality product with nice features.,"It is okay, nothing special."
+B000000315,Sample Product 315,Clothing|Men|Shirts,₹1050,₹7897,58%,2.7,"7,009",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000316,Sample Product 316,Home|Kitchen|Appliances,₹2436,₹2235,49%,3.8,"48,292",Great quality product with nice features.,"Terrible, broke after one day."
+B000000317,Sample Product 317,Electronics|TV|Smart,₹2343,₹8758,51%,2.8,"27,406",Great quality product with nice features.,"It is okay, nothing special."
+B000000318,Sample Product 318,Home|Kitchen|Appliances,₹2745,₹8479,16%,4.0,"36,387",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000319,Sample Product 319,Computers|Laptops|Gaming,₹1957,₹2928,25%,4.4,"25,374",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000320,Sample Product 320,Clothing|Men|Shirts,₹4712,₹7926,15%,4.3,"20,828",Great quality product with nice features.,Do not buy this waste of money.
+B000000321,Sample Product 321,Electronics|TV|Smart,₹1965,₹9033,9%,4.3,"33,041",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000322,Sample Product 322,Clothing|Men|Shirts,₹3012,₹5749,60%,2.6,"13,008",Great quality product with nice features.,Do not buy this waste of money.
+B000000323,Sample Product 323,Computers|Laptops|Gaming,₹2953,₹5791,24%,2.3,"18,158",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000324,Sample Product 324,Computers|Laptops|Gaming,₹3328,₹3317,45%,4.1,"32,158",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000325,Sample Product 325,Computers|Laptops|Gaming,₹3819,₹9924,50%,3.1,"35,316",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000326,Sample Product 326,Home|Kitchen|Appliances,₹3328,₹4374,16%,3.3,"35,933",Great quality product with nice features.,"Terrible, broke after one day."
+B000000327,Sample Product 327,Home|Kitchen|Appliances,₹2471,₹4711,74%,2.1,"21,165",Great quality product with nice features.,"Terrible, broke after one day."
+B000000328,Sample Product 328,Clothing|Men|Shirts,₹2991,₹1161,21%,2.8,"14,415",Great quality product with nice features.,Do not buy this waste of money.
+B000000329,Sample Product 329,Clothing|Men|Shirts,₹3856,₹3874,23%,2.1,"14,328",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000330,Sample Product 330,Electronics|TV|Smart,₹4325,₹9708,30%,4.6,"48,345",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000331,Sample Product 331,Electronics|TV|Smart,₹194,₹707,52%,2.7,947,Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000332,Sample Product 332,Clothing|Men|Shirts,₹2774,₹3165,56%,3.7,"14,694",Great quality product with nice features.,"It is okay, nothing special."
+B000000333,Sample Product 333,Home|Kitchen|Appliances,₹2055,₹2993,74%,2.1,"27,242",Great quality product with nice features.,"Terrible, broke after one day."
+B000000334,Sample Product 334,Computers|Laptops|Gaming,₹893,₹7313,59%,4.0,"49,659",Great quality product with nice features.,"Terrible, broke after one day."
+B000000335,Sample Product 335,Clothing|Men|Shirts,₹1934,₹1132,79%,3.0,"30,255",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000336,Sample Product 336,Electronics|TV|Smart,₹2216,₹3583,37%,4.7,"15,541",Great quality product with nice features.,"Terrible, broke after one day."
+B000000337,Sample Product 337,Home|Kitchen|Appliances,₹4206,₹4219,66%,4.7,"6,720",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000338,Sample Product 338,Clothing|Men|Shirts,₹3425,₹7623,27%,3.0,"41,204",Great quality product with nice features.,Do not buy this waste of money.
+B000000339,Sample Product 339,Clothing|Men|Shirts,₹3019,₹2179,19%,4.7,"25,082",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000340,Sample Product 340,Home|Kitchen|Appliances,₹2697,₹736,31%,5.0,"11,351",Great quality product with nice features.,"It is okay, nothing special."
+B000000341,Sample Product 341,Clothing|Men|Shirts,₹3305,₹7946,79%,4.5,"36,359",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000342,Sample Product 342,Home|Kitchen|Appliances,₹4907,₹4943,68%,4.5,"32,022",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000343,Sample Product 343,Computers|Laptops|Gaming,₹914,₹7270,55%,2.7,"42,833",Great quality product with nice features.,Do not buy this waste of money.
+B000000344,Sample Product 344,Home|Kitchen|Appliances,₹445,₹6599,57%,3.7,"28,370",Great quality product with nice features.,"Terrible, broke after one day."
+B000000345,Sample Product 345,Home|Kitchen|Appliances,₹2449,₹9055,55%,2.2,"31,729",Great quality product with nice features.,"It is okay, nothing special."
+B000000346,Sample Product 346,Home|Kitchen|Appliances,₹462,₹2868,51%,2.3,"17,577",Great quality product with nice features.,"Terrible, broke after one day."
+B000000347,Sample Product 347,Clothing|Men|Shirts,₹2543,₹785,8%,5.0,"29,002",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000348,Sample Product 348,Clothing|Men|Shirts,₹2365,₹648,11%,3.0,"17,849",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000349,Sample Product 349,Home|Kitchen|Appliances,₹2288,₹4537,39%,4.2,391,Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000350,Sample Product 350,Clothing|Men|Shirts,₹3105,₹7049,52%,4.4,"22,000",Great quality product with nice features.,"Terrible, broke after one day."
+B000000351,Sample Product 351,Electronics|TV|Smart,₹3381,₹7621,77%,4.6,"45,437",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000352,Sample Product 352,Electronics|TV|Smart,₹1084,₹5395,76%,5.0,"11,570",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000353,Sample Product 353,Clothing|Men|Shirts,₹1739,₹5780,49%,2.7,"13,030",Great quality product with nice features.,Do not buy this waste of money.
+B000000354,Sample Product 354,Clothing|Men|Shirts,₹927,₹1512,76%,2.1,"22,491",Great quality product with nice features.,"Terrible, broke after one day."
+B000000355,Sample Product 355,Home|Kitchen|Appliances,₹2830,₹3285,23%,3.2,"45,876",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000356,Sample Product 356,Computers|Laptops|Gaming,₹3631,₹4225,67%,2.4,"35,329",Great quality product with nice features.,"Terrible, broke after one day."
+B000000357,Sample Product 357,Clothing|Men|Shirts,₹4551,₹5076,42%,2.1,"5,868",Great quality product with nice features.,Do not buy this waste of money.
+B000000358,Sample Product 358,Electronics|TV|Smart,₹3035,₹6282,71%,3.1,"15,285",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000359,Sample Product 359,Home|Kitchen|Appliances,₹3976,₹6757,63%,4.4,"33,980",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000360,Sample Product 360,Clothing|Men|Shirts,₹226,₹2908,73%,3.7,"9,122",Great quality product with nice features.,"Terrible, broke after one day."
+B000000361,Sample Product 361,Electronics|TV|Smart,₹3277,₹840,17%,2.9,"1,540",Great quality product with nice features.,"Terrible, broke after one day."
+B000000362,Sample Product 362,Electronics|TV|Smart,₹3156,₹3317,51%,4.0,"25,489",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000363,Sample Product 363,Computers|Laptops|Gaming,₹703,₹2996,65%,2.7,"17,028",Great quality product with nice features.,Do not buy this waste of money.
+B000000364,Sample Product 364,Home|Kitchen|Appliances,₹3549,₹6462,35%,2.0,"8,694",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000365,Sample Product 365,Home|Kitchen|Appliances,₹4246,₹5799,26%,4.3,"8,922",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000366,Sample Product 366,Computers|Laptops|Gaming,₹3633,₹8074,47%,3.9,"10,311",Great quality product with nice features.,"Terrible, broke after one day."
+B000000367,Sample Product 367,Computers|Laptops|Gaming,₹3467,₹2189,71%,4.3,"45,513",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000368,Sample Product 368,Home|Kitchen|Appliances,₹3468,₹3767,58%,2.1,"30,909",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000369,Sample Product 369,Home|Kitchen|Appliances,₹3897,₹4906,14%,4.5,"4,387",Great quality product with nice features.,"It is okay, nothing special."
+B000000370,Sample Product 370,Clothing|Men|Shirts,₹1892,₹8953,46%,3.9,"32,264",Great quality product with nice features.,"It is okay, nothing special."
+B000000371,Sample Product 371,Clothing|Men|Shirts,₹2961,₹1942,68%,3.7,"28,413",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000372,Sample Product 372,Computers|Laptops|Gaming,₹3576,₹9097,25%,3.9,"17,304",Great quality product with nice features.,"Terrible, broke after one day."
+B000000373,Sample Product 373,Clothing|Men|Shirts,₹3517,₹4937,70%,4.6,"12,243",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000374,Sample Product 374,Electronics|TV|Smart,₹1745,₹5935,45%,3.8,"47,026",Great quality product with nice features.,"It is okay, nothing special."
+B000000375,Sample Product 375,Clothing|Men|Shirts,₹1305,₹8935,28%,3.7,"8,948",Great quality product with nice features.,"Terrible, broke after one day."
+B000000376,Sample Product 376,Clothing|Men|Shirts,₹3130,₹4607,39%,5.0,"46,715",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000377,Sample Product 377,Electronics|TV|Smart,₹2972,₹1060,60%,4.3,"5,931",Great quality product with nice features.,Do not buy this waste of money.
+B000000378,Sample Product 378,Computers|Laptops|Gaming,₹3172,₹9285,34%,3.3,"38,171",Great quality product with nice features.,Do not buy this waste of money.
+B000000379,Sample Product 379,Electronics|TV|Smart,₹1954,₹6048,61%,4.1,"48,786",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000380,Sample Product 380,Clothing|Men|Shirts,₹4121,₹2326,51%,3.2,508,Great quality product with nice features.,"Terrible, broke after one day."
+B000000381,Sample Product 381,Computers|Laptops|Gaming,₹4762,₹8129,39%,2.7,"1,437",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000382,Sample Product 382,Clothing|Men|Shirts,₹2808,₹8825,23%,3.8,"27,152",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000383,Sample Product 383,Electronics|TV|Smart,₹3602,₹3638,12%,4.8,"11,619",Great quality product with nice features.,"It is okay, nothing special."
+B000000384,Sample Product 384,Electronics|TV|Smart,₹1432,₹8193,30%,4.8,"8,751",Great quality product with nice features.,Do not buy this waste of money.
+B000000385,Sample Product 385,Clothing|Men|Shirts,₹301,₹8764,75%,3.0,"16,123",Great quality product with nice features.,"It is okay, nothing special."
+B000000386,Sample Product 386,Home|Kitchen|Appliances,₹3607,₹8342,34%,3.6,"7,355",Great quality product with nice features.,"It is okay, nothing special."
+B000000387,Sample Product 387,Home|Kitchen|Appliances,₹4312,₹7221,11%,2.6,"44,063",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000388,Sample Product 388,Electronics|TV|Smart,₹674,₹7502,71%,5.0,"30,980",Great quality product with nice features.,"It is okay, nothing special."
+B000000389,Sample Product 389,Electronics|TV|Smart,₹636,₹4725,69%,4.9,"20,901",Great quality product with nice features.,Do not buy this waste of money.
+B000000390,Sample Product 390,Home|Kitchen|Appliances,₹1725,₹3478,40%,3.9,"13,841",Great quality product with nice features.,"It is okay, nothing special."
+B000000391,Sample Product 391,Home|Kitchen|Appliances,₹2222,₹7873,29%,4.4,"37,168",Great quality product with nice features.,Do not buy this waste of money.
+B000000392,Sample Product 392,Clothing|Men|Shirts,₹485,₹6407,41%,4.1,"5,038",Great quality product with nice features.,"It is okay, nothing special."
+B000000393,Sample Product 393,Clothing|Men|Shirts,₹3381,₹6597,5%,3.8,"28,634",Great quality product with nice features.,Do not buy this waste of money.
+B000000394,Sample Product 394,Home|Kitchen|Appliances,₹574,₹6156,19%,2.2,"24,496",Great quality product with nice features.,"It is okay, nothing special."
+B000000395,Sample Product 395,Clothing|Men|Shirts,₹517,₹9484,41%,3.4,"15,849",Great quality product with nice features.,"It is okay, nothing special."
+B000000396,Sample Product 396,Clothing|Men|Shirts,₹3700,₹4759,17%,4.0,"36,484",Great quality product with nice features.,"Terrible, broke after one day."
+B000000397,Sample Product 397,Computers|Laptops|Gaming,₹1054,₹8786,12%,4.0,"47,646",Great quality product with nice features.,Do not buy this waste of money.
+B000000398,Sample Product 398,Clothing|Men|Shirts,₹4958,₹6401,9%,3.1,"7,838",Great quality product with nice features.,Do not buy this waste of money.
+B000000399,Sample Product 399,Electronics|TV|Smart,₹1305,₹9825,64%,4.8,"34,070",Great quality product with nice features.,Do not buy this waste of money.
+B000000400,Sample Product 400,Clothing|Men|Shirts,₹4859,₹5417,77%,2.5,"7,371",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000401,Sample Product 401,Clothing|Men|Shirts,₹4220,₹8929,5%,3.5,"6,412",Great quality product with nice features.,"It is okay, nothing special."
+B000000402,Sample Product 402,Home|Kitchen|Appliances,₹2090,₹3030,40%,4.1,"39,134",Great quality product with nice features.,Do not buy this waste of money.
+B000000403,Sample Product 403,Electronics|TV|Smart,₹4905,₹2460,39%,4.1,"30,500",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000404,Sample Product 404,Clothing|Men|Shirts,₹3672,₹7545,70%,3.9,"30,226",Great quality product with nice features.,"Terrible, broke after one day."
+B000000405,Sample Product 405,Clothing|Men|Shirts,₹4480,₹1548,67%,2.8,"48,218",Great quality product with nice features.,Do not buy this waste of money.
+B000000406,Sample Product 406,Computers|Laptops|Gaming,₹4258,₹6272,27%,2.5,693,Great quality product with nice features.,Do not buy this waste of money.
+B000000407,Sample Product 407,Clothing|Men|Shirts,₹4857,₹3029,13%,3.9,"28,927",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000408,Sample Product 408,Clothing|Men|Shirts,₹2813,₹3464,38%,3.8,"34,247",Great quality product with nice features.,"It is okay, nothing special."
+B000000409,Sample Product 409,Computers|Laptops|Gaming,₹2303,₹7637,50%,2.5,"39,165",Great quality product with nice features.,"Terrible, broke after one day."
+B000000410,Sample Product 410,Home|Kitchen|Appliances,₹3220,₹1463,8%,4.1,"8,449",Great quality product with nice features.,Do not buy this waste of money.
+B000000411,Sample Product 411,Clothing|Men|Shirts,₹1066,₹1036,34%,3.4,"43,391",Great quality product with nice features.,"It is okay, nothing special."
+B000000412,Sample Product 412,Computers|Laptops|Gaming,₹3532,₹7840,79%,4.0,"49,594",Great quality product with nice features.,"Terrible, broke after one day."
+B000000413,Sample Product 413,Electronics|TV|Smart,₹788,₹7679,76%,4.5,"10,074",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000414,Sample Product 414,Home|Kitchen|Appliances,₹4343,₹8467,7%,2.5,"35,415",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000415,Sample Product 415,Electronics|TV|Smart,₹3801,₹9234,18%,2.1,"5,210",Great quality product with nice features.,"Terrible, broke after one day."
+B000000416,Sample Product 416,Electronics|TV|Smart,₹441,₹1345,64%,4.3,"6,534",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000417,Sample Product 417,Computers|Laptops|Gaming,₹1824,₹6277,49%,3.8,"21,062",Great quality product with nice features.,"Terrible, broke after one day."
+B000000418,Sample Product 418,Clothing|Men|Shirts,₹4522,₹3536,38%,4.1,"7,212",Great quality product with nice features.,"Terrible, broke after one day."
+B000000419,Sample Product 419,Computers|Laptops|Gaming,₹1892,₹6447,49%,4.5,"9,928",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000420,Sample Product 420,Computers|Laptops|Gaming,₹1859,₹2994,65%,4.4,"11,928",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000421,Sample Product 421,Computers|Laptops|Gaming,₹3312,₹3219,20%,4.9,"24,595",Great quality product with nice features.,"It is okay, nothing special."
+B000000422,Sample Product 422,Computers|Laptops|Gaming,₹1089,₹2384,70%,3.6,"9,317",Great quality product with nice features.,"It is okay, nothing special."
+B000000423,Sample Product 423,Home|Kitchen|Appliances,₹2362,₹4849,44%,3.5,"12,178",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000424,Sample Product 424,Clothing|Men|Shirts,₹2582,₹5679,21%,3.2,"10,847",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000425,Sample Product 425,Electronics|TV|Smart,₹1051,₹7110,38%,2.5,"7,934",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000426,Sample Product 426,Electronics|TV|Smart,₹822,₹6930,20%,3.7,"38,245",Great quality product with nice features.,"Terrible, broke after one day."
+B000000427,Sample Product 427,Clothing|Men|Shirts,₹3489,₹7654,64%,2.8,"46,622",Great quality product with nice features.,Do not buy this waste of money.
+B000000428,Sample Product 428,Electronics|TV|Smart,₹2179,₹6988,70%,4.8,"40,697",Great quality product with nice features.,"Terrible, broke after one day."
+B000000429,Sample Product 429,Clothing|Men|Shirts,₹2817,₹5237,70%,3.7,"2,081",Great quality product with nice features.,"Terrible, broke after one day."
+B000000430,Sample Product 430,Electronics|TV|Smart,₹2432,₹7025,17%,3.8,"6,090",Great quality product with nice features.,Do not buy this waste of money.
+B000000431,Sample Product 431,Computers|Laptops|Gaming,₹3476,₹4350,60%,3.1,"26,124",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000432,Sample Product 432,Electronics|TV|Smart,₹4624,₹1189,35%,2.2,"7,798",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000433,Sample Product 433,Clothing|Men|Shirts,₹1600,₹5675,38%,2.1,"8,347",Great quality product with nice features.,"Terrible, broke after one day."
+B000000434,Sample Product 434,Clothing|Men|Shirts,₹385,₹9148,43%,3.3,"19,879",Great quality product with nice features.,Do not buy this waste of money.
+B000000435,Sample Product 435,Clothing|Men|Shirts,₹3595,₹5578,71%,2.3,"33,673",Great quality product with nice features.,"It is okay, nothing special."
+B000000436,Sample Product 436,Clothing|Men|Shirts,₹2165,₹5948,12%,3.8,"17,654",Great quality product with nice features.,"Terrible, broke after one day."
+B000000437,Sample Product 437,Clothing|Men|Shirts,₹868,₹1679,59%,4.6,"49,557",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000438,Sample Product 438,Home|Kitchen|Appliances,₹3157,₹9574,31%,4.6,"42,743",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000439,Sample Product 439,Home|Kitchen|Appliances,₹4389,₹6906,57%,4.0,"26,141",Great quality product with nice features.,"Terrible, broke after one day."
+B000000440,Sample Product 440,Electronics|TV|Smart,₹2261,₹9091,43%,2.6,"1,185",Great quality product with nice features.,"Terrible, broke after one day."
+B000000441,Sample Product 441,Clothing|Men|Shirts,₹3393,₹7407,69%,4.6,"34,494",Great quality product with nice features.,Do not buy this waste of money.
+B000000442,Sample Product 442,Electronics|TV|Smart,₹1046,₹9300,21%,4.7,"44,149",Great quality product with nice features.,"It is okay, nothing special."
+B000000443,Sample Product 443,Clothing|Men|Shirts,₹3435,₹2138,34%,2.6,"24,847",Great quality product with nice features.,"It is okay, nothing special."
+B000000444,Sample Product 444,Clothing|Men|Shirts,₹4250,₹6171,57%,4.2,"45,826",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000445,Sample Product 445,Home|Kitchen|Appliances,₹4995,₹7428,17%,2.9,"22,196",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000446,Sample Product 446,Home|Kitchen|Appliances,₹4973,₹1882,25%,4.4,"5,607",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000447,Sample Product 447,Computers|Laptops|Gaming,₹1581,₹1903,23%,5.0,"3,957",Great quality product with nice features.,"Terrible, broke after one day."
+B000000448,Sample Product 448,Home|Kitchen|Appliances,₹2001,₹9511,57%,2.1,"16,556",Great quality product with nice features.,"Terrible, broke after one day."
+B000000449,Sample Product 449,Computers|Laptops|Gaming,₹3551,₹3792,23%,4.7,"24,850",Great quality product with nice features.,"It is okay, nothing special."
+B000000450,Sample Product 450,Computers|Laptops|Gaming,₹4164,₹9511,61%,3.9,"18,691",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000451,Sample Product 451,Computers|Laptops|Gaming,₹154,₹919,29%,4.9,"48,850",Great quality product with nice features.,Do not buy this waste of money.
+B000000452,Sample Product 452,Computers|Laptops|Gaming,₹1923,₹5017,35%,3.4,"26,348",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000453,Sample Product 453,Computers|Laptops|Gaming,₹3562,₹3802,59%,4.5,"33,190",Great quality product with nice features.,"Terrible, broke after one day."
+B000000454,Sample Product 454,Electronics|TV|Smart,₹3179,₹8357,27%,2.2,"38,309",Great quality product with nice features.,Do not buy this waste of money.
+B000000455,Sample Product 455,Home|Kitchen|Appliances,₹932,₹8370,36%,3.0,"25,786",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000456,Sample Product 456,Computers|Laptops|Gaming,₹4508,₹6193,66%,2.2,"49,057",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000457,Sample Product 457,Clothing|Men|Shirts,₹2906,₹1267,78%,4.9,"32,699",Great quality product with nice features.,Do not buy this waste of money.
+B000000458,Sample Product 458,Home|Kitchen|Appliances,₹2590,₹2544,14%,4.5,"15,967",Great quality product with nice features.,"Terrible, broke after one day."
+B000000459,Sample Product 459,Home|Kitchen|Appliances,₹427,₹2049,76%,4.6,"31,098",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000460,Sample Product 460,Computers|Laptops|Gaming,₹3410,₹6640,58%,4.8,"15,883",Great quality product with nice features.,Do not buy this waste of money.
+B000000461,Sample Product 461,Electronics|TV|Smart,₹3400,₹4216,56%,2.3,"4,676",Great quality product with nice features.,"Terrible, broke after one day."
+B000000462,Sample Product 462,Computers|Laptops|Gaming,₹3775,₹4981,24%,3.2,"41,851",Great quality product with nice features.,Do not buy this waste of money.
+B000000463,Sample Product 463,Electronics|TV|Smart,₹3154,₹8398,36%,2.2,"13,010",Great quality product with nice features.,Do not buy this waste of money.
+B000000464,Sample Product 464,Clothing|Men|Shirts,₹2243,₹7048,18%,2.6,"27,844",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000465,Sample Product 465,Home|Kitchen|Appliances,₹1411,₹2793,54%,2.7,"29,794",Great quality product with nice features.,"Terrible, broke after one day."
+B000000466,Sample Product 466,Clothing|Men|Shirts,₹3291,₹5337,32%,3.4,"39,517",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000467,Sample Product 467,Electronics|TV|Smart,₹2638,₹8258,57%,2.8,"38,872",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000468,Sample Product 468,Electronics|TV|Smart,₹4083,₹7293,28%,2.3,"17,858",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000469,Sample Product 469,Clothing|Men|Shirts,₹4647,₹8138,26%,2.5,"19,628",Great quality product with nice features.,"Terrible, broke after one day."
+B000000470,Sample Product 470,Electronics|TV|Smart,₹264,₹8493,34%,2.4,"18,566",Great quality product with nice features.,Do not buy this waste of money.
+B000000471,Sample Product 471,Clothing|Men|Shirts,₹4377,₹6507,67%,4.9,"26,026",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000472,Sample Product 472,Home|Kitchen|Appliances,₹922,₹6042,8%,4.3,"27,833",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000473,Sample Product 473,Clothing|Men|Shirts,₹1043,₹9592,63%,4.9,"44,117",Great quality product with nice features.,"Terrible, broke after one day."
+B000000474,Sample Product 474,Home|Kitchen|Appliances,₹4525,₹6856,12%,3.3,"9,783",Great quality product with nice features.,"Terrible, broke after one day."
+B000000475,Sample Product 475,Clothing|Men|Shirts,₹874,₹8933,16%,2.8,"38,651",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000476,Sample Product 476,Electronics|TV|Smart,₹2298,₹7880,35%,4.4,"22,367",Great quality product with nice features.,"It is okay, nothing special."
+B000000477,Sample Product 477,Clothing|Men|Shirts,₹3256,₹2885,38%,3.0,"28,558",Great quality product with nice features.,"Terrible, broke after one day."
+B000000478,Sample Product 478,Electronics|TV|Smart,₹4342,₹4768,79%,2.9,"5,799",Great quality product with nice features.,"It is okay, nothing special."
+B000000479,Sample Product 479,Clothing|Men|Shirts,₹3795,₹1171,53%,2.7,"9,628",Great quality product with nice features.,"Terrible, broke after one day."
+B000000480,Sample Product 480,Clothing|Men|Shirts,₹3552,₹663,61%,2.4,"41,184",Great quality product with nice features.,Do not buy this waste of money.
+B000000481,Sample Product 481,Computers|Laptops|Gaming,₹1014,₹9156,30%,2.8,"12,467",Great quality product with nice features.,Do not buy this waste of money.
+B000000482,Sample Product 482,Electronics|TV|Smart,₹1408,₹5092,22%,3.1,"42,615",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000483,Sample Product 483,Computers|Laptops|Gaming,₹4277,₹5295,42%,4.0,"12,721",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000484,Sample Product 484,Electronics|TV|Smart,₹613,₹5298,54%,2.2,"41,914",Great quality product with nice features.,"It is okay, nothing special."
+B000000485,Sample Product 485,Computers|Laptops|Gaming,₹2020,₹6536,12%,2.6,"37,293",Great quality product with nice features.,"Terrible, broke after one day."
+B000000486,Sample Product 486,Home|Kitchen|Appliances,₹3694,₹2855,45%,4.4,"6,560",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000487,Sample Product 487,Clothing|Men|Shirts,₹4941,₹6387,10%,2.4,"40,389",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000488,Sample Product 488,Electronics|TV|Smart,₹1509,₹8461,73%,3.0,"19,159",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000489,Sample Product 489,Electronics|TV|Smart,₹4902,₹6327,48%,4.6,"30,917",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000490,Sample Product 490,Clothing|Men|Shirts,₹4666,₹9237,68%,2.5,"22,058",Great quality product with nice features.,"Terrible, broke after one day."
+B000000491,Sample Product 491,Electronics|TV|Smart,₹3290,₹5219,33%,2.2,"35,893",Great quality product with nice features.,"It is okay, nothing special."
+B000000492,Sample Product 492,Electronics|TV|Smart,₹4591,₹1093,32%,3.5,"41,440",Great quality product with nice features.,"Terrible, broke after one day."
+B000000493,Sample Product 493,Computers|Laptops|Gaming,₹1655,₹5339,15%,2.9,"11,707",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000494,Sample Product 494,Electronics|TV|Smart,₹904,₹7894,69%,3.7,"12,071",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000495,Sample Product 495,Home|Kitchen|Appliances,₹1379,₹3993,23%,4.4,"40,903",Great quality product with nice features.,"Terrible, broke after one day."
+B000000496,Sample Product 496,Home|Kitchen|Appliances,₹3677,₹6664,13%,2.4,925,Great quality product with nice features.,"Terrible, broke after one day."
+B000000497,Sample Product 497,Clothing|Men|Shirts,₹3001,₹3172,31%,3.7,"26,479",Great quality product with nice features.,"Terrible, broke after one day."
+B000000498,Sample Product 498,Electronics|TV|Smart,₹1487,₹4700,38%,3.5,"5,507",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000499,Sample Product 499,Clothing|Men|Shirts,₹4788,₹516,48%,2.4,"46,419",Great quality product with nice features.,"It is okay, nothing special."
+B000000500,Sample Product 500,Home|Kitchen|Appliances,₹2861,₹3691,72%,3.9,"35,164",Great quality product with nice features.,"Terrible, broke after one day."
+B000000501,Sample Product 501,Electronics|TV|Smart,₹2779,₹892,19%,2.8,"24,605",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000502,Sample Product 502,Electronics|TV|Smart,₹2206,₹9116,55%,3.5,"15,311",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000503,Sample Product 503,Clothing|Men|Shirts,₹4323,₹6772,17%,2.2,"8,227",Great quality product with nice features.,Do not buy this waste of money.
+B000000504,Sample Product 504,Home|Kitchen|Appliances,₹4931,₹1071,53%,3.4,"11,782",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000505,Sample Product 505,Electronics|TV|Smart,₹2868,₹4131,74%,2.9,"5,516",Great quality product with nice features.,Do not buy this waste of money.
+B000000506,Sample Product 506,Clothing|Men|Shirts,₹4053,₹6672,60%,4.5,"36,134",Great quality product with nice features.,"Terrible, broke after one day."
+B000000507,Sample Product 507,Home|Kitchen|Appliances,₹3286,₹9812,55%,2.2,"16,973",Great quality product with nice features.,"Terrible, broke after one day."
+B000000508,Sample Product 508,Clothing|Men|Shirts,₹3380,₹7677,41%,3.3,"32,093",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000509,Sample Product 509,Computers|Laptops|Gaming,₹2673,₹8933,21%,3.4,"11,411",Great quality product with nice features.,Do not buy this waste of money.
+B000000510,Sample Product 510,Electronics|TV|Smart,₹4716,₹4397,62%,4.2,"19,523",Great quality product with nice features.,"Terrible, broke after one day."
+B000000511,Sample Product 511,Computers|Laptops|Gaming,₹2699,₹8623,33%,3.7,"9,096",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000512,Sample Product 512,Home|Kitchen|Appliances,₹4133,₹2779,37%,4.0,"23,048",Great quality product with nice features.,"It is okay, nothing special."
+B000000513,Sample Product 513,Computers|Laptops|Gaming,₹336,₹9480,64%,4.3,"20,471",Great quality product with nice features.,"It is okay, nothing special."
+B000000514,Sample Product 514,Computers|Laptops|Gaming,₹1404,₹7951,59%,4.6,"43,130",Great quality product with nice features.,"Terrible, broke after one day."
+B000000515,Sample Product 515,Home|Kitchen|Appliances,₹3530,₹9406,14%,2.9,"8,532",Great quality product with nice features.,Do not buy this waste of money.
+B000000516,Sample Product 516,Clothing|Men|Shirts,₹1401,₹1275,51%,3.6,"37,039",Great quality product with nice features.,"Terrible, broke after one day."
+B000000517,Sample Product 517,Computers|Laptops|Gaming,₹2641,₹7369,27%,4.5,"22,404",Great quality product with nice features.,Do not buy this waste of money.
+B000000518,Sample Product 518,Clothing|Men|Shirts,₹2151,₹2747,25%,5.0,"42,675",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000519,Sample Product 519,Computers|Laptops|Gaming,₹541,₹7588,17%,4.7,"29,123",Great quality product with nice features.,Do not buy this waste of money.
+B000000520,Sample Product 520,Clothing|Men|Shirts,₹2176,₹578,37%,3.1,"16,941",Great quality product with nice features.,"Terrible, broke after one day."
+B000000521,Sample Product 521,Home|Kitchen|Appliances,₹3280,₹8580,28%,2.6,"29,832",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000522,Sample Product 522,Computers|Laptops|Gaming,₹2757,₹7599,15%,3.5,"11,280",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000523,Sample Product 523,Home|Kitchen|Appliances,₹3898,₹4426,21%,4.2,"38,221",Great quality product with nice features.,"It is okay, nothing special."
+B000000524,Sample Product 524,Computers|Laptops|Gaming,₹904,₹9547,72%,3.5,"6,478",Great quality product with nice features.,"Terrible, broke after one day."
+B000000525,Sample Product 525,Home|Kitchen|Appliances,₹174,₹7840,51%,3.4,"17,401",Great quality product with nice features.,"Terrible, broke after one day."
+B000000526,Sample Product 526,Home|Kitchen|Appliances,₹2275,₹7583,29%,4.5,"6,471",Great quality product with nice features.,"Terrible, broke after one day."
+B000000527,Sample Product 527,Computers|Laptops|Gaming,₹4024,₹6730,77%,3.1,"2,063",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000528,Sample Product 528,Computers|Laptops|Gaming,₹2189,₹9723,25%,4.6,"41,799",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000529,Sample Product 529,Computers|Laptops|Gaming,₹140,₹5440,16%,3.2,"19,881",Great quality product with nice features.,Do not buy this waste of money.
+B000000530,Sample Product 530,Electronics|TV|Smart,₹2181,₹3771,41%,3.0,"34,582",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000531,Sample Product 531,Clothing|Men|Shirts,₹4783,₹3956,46%,3.4,"44,440",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000532,Sample Product 532,Electronics|TV|Smart,₹1722,₹8288,21%,4.3,"14,309",Great quality product with nice features.,"Terrible, broke after one day."
+B000000533,Sample Product 533,Electronics|TV|Smart,₹441,₹9099,52%,2.4,"26,028",Great quality product with nice features.,"It is okay, nothing special."
+B000000534,Sample Product 534,Home|Kitchen|Appliances,₹4152,₹8150,32%,2.6,"30,721",Great quality product with nice features.,"Terrible, broke after one day."
+B000000535,Sample Product 535,Computers|Laptops|Gaming,₹2174,₹3211,45%,4.9,"35,082",Great quality product with nice features.,Do not buy this waste of money.
+B000000536,Sample Product 536,Clothing|Men|Shirts,₹745,₹2168,51%,2.5,"9,707",Great quality product with nice features.,"It is okay, nothing special."
+B000000537,Sample Product 537,Home|Kitchen|Appliances,₹4926,₹647,22%,3.7,"9,838",Great quality product with nice features.,"Terrible, broke after one day."
+B000000538,Sample Product 538,Electronics|TV|Smart,₹4363,₹6920,75%,3.7,"38,600",Great quality product with nice features.,"It is okay, nothing special."
+B000000539,Sample Product 539,Computers|Laptops|Gaming,₹709,₹865,17%,3.5,"36,825",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000540,Sample Product 540,Home|Kitchen|Appliances,₹554,₹5031,17%,3.9,"33,074",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000541,Sample Product 541,Computers|Laptops|Gaming,₹3053,₹5830,35%,2.7,"47,116",Great quality product with nice features.,"Terrible, broke after one day."
+B000000542,Sample Product 542,Home|Kitchen|Appliances,₹1808,₹6010,6%,3.7,"32,089",Great quality product with nice features.,Do not buy this waste of money.
+B000000543,Sample Product 543,Computers|Laptops|Gaming,₹3572,₹9254,20%,3.1,"28,113",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000544,Sample Product 544,Electronics|TV|Smart,₹3069,₹9464,13%,4.0,"26,300",Great quality product with nice features.,"Terrible, broke after one day."
+B000000545,Sample Product 545,Clothing|Men|Shirts,₹3128,₹6993,77%,2.4,"34,458",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000546,Sample Product 546,Electronics|TV|Smart,₹4897,₹5939,42%,3.7,"30,064",Great quality product with nice features.,Do not buy this waste of money.
+B000000547,Sample Product 547,Clothing|Men|Shirts,₹2781,₹7011,79%,2.6,"3,918",Great quality product with nice features.,"Terrible, broke after one day."
+B000000548,Sample Product 548,Computers|Laptops|Gaming,₹3729,₹8004,58%,2.8,"2,937",Great quality product with nice features.,Do not buy this waste of money.
+B000000549,Sample Product 549,Home|Kitchen|Appliances,₹4325,₹1746,60%,2.7,"36,631",Great quality product with nice features.,"It is okay, nothing special."
+B000000550,Sample Product 550,Electronics|TV|Smart,₹3167,₹4339,49%,2.5,"14,507",Great quality product with nice features.,Do not buy this waste of money.
+B000000551,Sample Product 551,Clothing|Men|Shirts,₹1486,₹9051,38%,4.5,"28,806",Great quality product with nice features.,"It is okay, nothing special."
+B000000552,Sample Product 552,Electronics|TV|Smart,₹3876,₹2876,13%,2.9,"14,319",Great quality product with nice features.,"Terrible, broke after one day."
+B000000553,Sample Product 553,Clothing|Men|Shirts,₹2966,₹3509,12%,4.8,"48,069",Great quality product with nice features.,"It is okay, nothing special."
+B000000554,Sample Product 554,Electronics|TV|Smart,₹4888,₹9654,11%,4.9,"26,027",Great quality product with nice features.,"Terrible, broke after one day."
+B000000555,Sample Product 555,Clothing|Men|Shirts,₹3463,₹2327,40%,3.7,"27,673",Great quality product with nice features.,"Terrible, broke after one day."
+B000000556,Sample Product 556,Clothing|Men|Shirts,₹4989,₹7479,22%,2.4,"38,418",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000557,Sample Product 557,Computers|Laptops|Gaming,₹4224,₹9069,7%,3.1,"27,282",Great quality product with nice features.,"Terrible, broke after one day."
+B000000558,Sample Product 558,Clothing|Men|Shirts,₹248,₹4785,32%,4.4,"48,443",Great quality product with nice features.,"It is okay, nothing special."
+B000000559,Sample Product 559,Computers|Laptops|Gaming,₹3950,₹7410,74%,3.1,"28,092",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000560,Sample Product 560,Clothing|Men|Shirts,₹2158,₹9061,48%,2.3,"38,329",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000561,Sample Product 561,Home|Kitchen|Appliances,₹1236,₹2696,25%,3.7,"48,220",Great quality product with nice features.,"Terrible, broke after one day."
+B000000562,Sample Product 562,Home|Kitchen|Appliances,₹286,₹4247,32%,4.5,"18,611",Great quality product with nice features.,Do not buy this waste of money.
+B000000563,Sample Product 563,Home|Kitchen|Appliances,₹2954,₹9343,58%,4.4,"1,080",Great quality product with nice features.,Do not buy this waste of money.
+B000000564,Sample Product 564,Clothing|Men|Shirts,₹1350,₹6478,58%,2.5,"29,851",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000565,Sample Product 565,Computers|Laptops|Gaming,₹1433,₹6107,69%,4.0,"46,752",Great quality product with nice features.,"Terrible, broke after one day."
+B000000566,Sample Product 566,Computers|Laptops|Gaming,₹4293,₹1269,25%,2.7,"20,591",Great quality product with nice features.,Do not buy this waste of money.
+B000000567,Sample Product 567,Clothing|Men|Shirts,₹4250,₹1280,17%,2.7,"30,952",Great quality product with nice features.,"Terrible, broke after one day."
+B000000568,Sample Product 568,Home|Kitchen|Appliances,₹2811,₹6803,61%,4.6,"15,328",Great quality product with nice features.,"Terrible, broke after one day."
+B000000569,Sample Product 569,Home|Kitchen|Appliances,₹4953,₹4483,53%,2.7,"12,756",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000570,Sample Product 570,Computers|Laptops|Gaming,₹4601,₹9214,58%,2.8,"7,236",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000571,Sample Product 571,Home|Kitchen|Appliances,₹1885,₹1021,14%,2.0,"17,198",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000572,Sample Product 572,Electronics|TV|Smart,₹850,₹9627,57%,4.6,"21,474",Great quality product with nice features.,Do not buy this waste of money.
+B000000573,Sample Product 573,Computers|Laptops|Gaming,₹1862,₹8069,48%,4.4,"2,032",Great quality product with nice features.,Do not buy this waste of money.
+B000000574,Sample Product 574,Home|Kitchen|Appliances,₹4020,₹6284,51%,3.9,"41,283",Great quality product with nice features.,Do not buy this waste of money.
+B000000575,Sample Product 575,Computers|Laptops|Gaming,₹4560,₹5083,57%,4.3,"41,864",Great quality product with nice features.,"It is okay, nothing special."
+B000000576,Sample Product 576,Electronics|TV|Smart,₹581,₹6446,78%,2.5,"14,288",Great quality product with nice features.,"Terrible, broke after one day."
+B000000577,Sample Product 577,Computers|Laptops|Gaming,₹253,₹5441,50%,3.4,"38,680",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000578,Sample Product 578,Computers|Laptops|Gaming,₹1624,₹6767,17%,3.1,"44,464",Great quality product with nice features.,Do not buy this waste of money.
+B000000579,Sample Product 579,Computers|Laptops|Gaming,₹2220,₹7628,41%,2.3,"32,231",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000580,Sample Product 580,Computers|Laptops|Gaming,₹2443,₹2961,28%,3.5,"19,038",Great quality product with nice features.,Do not buy this waste of money.
+B000000581,Sample Product 581,Electronics|TV|Smart,₹1340,₹1185,6%,4.8,"27,053",Great quality product with nice features.,"Terrible, broke after one day."
+B000000582,Sample Product 582,Clothing|Men|Shirts,₹160,₹2660,18%,2.1,"3,341",Great quality product with nice features.,"Terrible, broke after one day."
+B000000583,Sample Product 583,Computers|Laptops|Gaming,₹1038,₹7531,14%,2.9,"40,645",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000584,Sample Product 584,Computers|Laptops|Gaming,₹1739,₹5841,39%,2.6,"48,665",Great quality product with nice features.,"It is okay, nothing special."
+B000000585,Sample Product 585,Home|Kitchen|Appliances,₹4220,₹538,29%,2.7,"45,204",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000586,Sample Product 586,Computers|Laptops|Gaming,₹4326,₹5375,7%,4.7,"1,142",Great quality product with nice features.,Do not buy this waste of money.
+B000000587,Sample Product 587,Home|Kitchen|Appliances,₹3669,₹1756,21%,3.4,"25,426",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000588,Sample Product 588,Clothing|Men|Shirts,₹1352,₹8197,16%,3.4,"19,282",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000589,Sample Product 589,Electronics|TV|Smart,₹4303,₹2696,58%,4.3,"42,050",Great quality product with nice features.,"It is okay, nothing special."
+B000000590,Sample Product 590,Electronics|TV|Smart,₹271,₹7665,28%,2.5,"20,426",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000591,Sample Product 591,Clothing|Men|Shirts,₹1558,₹801,33%,3.5,"34,807",Great quality product with nice features.,"Terrible, broke after one day."
+B000000592,Sample Product 592,Electronics|TV|Smart,₹3649,₹8027,47%,3.3,"32,114",Great quality product with nice features.,Do not buy this waste of money.
+B000000593,Sample Product 593,Clothing|Men|Shirts,₹4297,₹6881,29%,3.8,"4,271",Great quality product with nice features.,Do not buy this waste of money.
+B000000594,Sample Product 594,Clothing|Men|Shirts,₹2422,₹1146,64%,5.0,"42,815",Great quality product with nice features.,Do not buy this waste of money.
+B000000595,Sample Product 595,Clothing|Men|Shirts,₹1736,₹9289,69%,4.3,"4,684",Great quality product with nice features.,Do not buy this waste of money.
+B000000596,Sample Product 596,Electronics|TV|Smart,₹3215,₹9353,32%,3.2,"49,647",Great quality product with nice features.,Do not buy this waste of money.
+B000000597,Sample Product 597,Home|Kitchen|Appliances,₹4190,₹4830,20%,4.5,"39,885",Great quality product with nice features.,Do not buy this waste of money.
+B000000598,Sample Product 598,Clothing|Men|Shirts,₹3104,₹7503,51%,2.5,"29,810",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000599,Sample Product 599,Computers|Laptops|Gaming,₹429,₹4037,62%,2.1,"34,553",Great quality product with nice features.,"It is okay, nothing special."
+B000000600,Sample Product 600,Electronics|TV|Smart,₹3740,₹5058,31%,2.6,"3,787",Great quality product with nice features.,Do not buy this waste of money.
+B000000601,Sample Product 601,Clothing|Men|Shirts,₹3994,₹7079,57%,3.0,"21,651",Great quality product with nice features.,"It is okay, nothing special."
+B000000602,Sample Product 602,Clothing|Men|Shirts,₹4207,₹8974,46%,3.5,"28,707",Great quality product with nice features.,Do not buy this waste of money.
+B000000603,Sample Product 603,Computers|Laptops|Gaming,₹1441,₹4582,63%,3.8,"9,191",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000604,Sample Product 604,Home|Kitchen|Appliances,₹3763,₹4683,51%,4.7,"38,197",Great quality product with nice features.,Do not buy this waste of money.
+B000000605,Sample Product 605,Home|Kitchen|Appliances,₹315,₹9152,38%,3.5,"39,450",Great quality product with nice features.,"Terrible, broke after one day."
+B000000606,Sample Product 606,Home|Kitchen|Appliances,₹438,₹4254,41%,3.5,"39,662",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000607,Sample Product 607,Clothing|Men|Shirts,₹4162,₹2224,10%,2.2,"29,710",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000608,Sample Product 608,Clothing|Men|Shirts,₹2808,₹1876,11%,2.1,"45,430",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000609,Sample Product 609,Clothing|Men|Shirts,₹3252,₹9206,29%,3.7,"14,893",Great quality product with nice features.,"Terrible, broke after one day."
+B000000610,Sample Product 610,Electronics|TV|Smart,₹1850,₹9394,37%,3.3,"9,644",Great quality product with nice features.,Do not buy this waste of money.
+B000000611,Sample Product 611,Computers|Laptops|Gaming,₹2521,₹2153,59%,4.5,"9,944",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000612,Sample Product 612,Clothing|Men|Shirts,₹809,₹2566,62%,2.5,"43,241",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000613,Sample Product 613,Computers|Laptops|Gaming,₹3826,₹522,11%,2.1,"45,761",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000614,Sample Product 614,Computers|Laptops|Gaming,₹3742,₹2960,61%,3.3,"21,043",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000615,Sample Product 615,Home|Kitchen|Appliances,₹4093,₹6426,16%,2.7,"43,895",Great quality product with nice features.,Do not buy this waste of money.
+B000000616,Sample Product 616,Electronics|TV|Smart,₹588,₹6751,20%,2.1,"6,870",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000617,Sample Product 617,Clothing|Men|Shirts,₹146,₹9996,47%,4.2,"40,438",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000618,Sample Product 618,Home|Kitchen|Appliances,₹3459,₹7795,11%,2.3,"44,307",Great quality product with nice features.,"It is okay, nothing special."
+B000000619,Sample Product 619,Home|Kitchen|Appliances,₹4973,₹3800,55%,3.8,"42,834",Great quality product with nice features.,Do not buy this waste of money.
+B000000620,Sample Product 620,Clothing|Men|Shirts,₹4906,₹6779,77%,2.8,"20,919",Great quality product with nice features.,"Terrible, broke after one day."
+B000000621,Sample Product 621,Computers|Laptops|Gaming,₹500,₹9053,36%,2.5,"28,380",Great quality product with nice features.,"Terrible, broke after one day."
+B000000622,Sample Product 622,Home|Kitchen|Appliances,₹4090,₹7853,79%,3.1,"42,940",Great quality product with nice features.,Do not buy this waste of money.
+B000000623,Sample Product 623,Computers|Laptops|Gaming,₹3257,₹4227,12%,4.4,"25,275",Great quality product with nice features.,"Terrible, broke after one day."
+B000000624,Sample Product 624,Electronics|TV|Smart,₹4445,₹6772,76%,3.2,"17,697",Great quality product with nice features.,Do not buy this waste of money.
+B000000625,Sample Product 625,Computers|Laptops|Gaming,₹490,₹6495,49%,4.3,"2,963",Great quality product with nice features.,"Terrible, broke after one day."
+B000000626,Sample Product 626,Electronics|TV|Smart,₹3953,₹9976,63%,2.4,"13,852",Great quality product with nice features.,"It is okay, nothing special."
+B000000627,Sample Product 627,Computers|Laptops|Gaming,₹4530,₹1014,8%,4.3,"45,748",Great quality product with nice features.,"Terrible, broke after one day."
+B000000628,Sample Product 628,Home|Kitchen|Appliances,₹728,₹948,71%,2.7,"5,297",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000629,Sample Product 629,Home|Kitchen|Appliances,₹4332,₹6519,33%,4.0,"14,746",Great quality product with nice features.,Do not buy this waste of money.
+B000000630,Sample Product 630,Electronics|TV|Smart,₹3030,₹5843,33%,3.7,"5,731",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000631,Sample Product 631,Clothing|Men|Shirts,₹1621,₹8533,32%,4.8,"13,922",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000632,Sample Product 632,Electronics|TV|Smart,₹926,₹3020,48%,3.2,"32,895",Great quality product with nice features.,Do not buy this waste of money.
+B000000633,Sample Product 633,Electronics|TV|Smart,₹4922,₹3581,8%,2.2,"5,603",Great quality product with nice features.,"It is okay, nothing special."
+B000000634,Sample Product 634,Computers|Laptops|Gaming,₹1600,₹1928,13%,2.1,"17,576",Great quality product with nice features.,"Terrible, broke after one day."
+B000000635,Sample Product 635,Computers|Laptops|Gaming,₹3394,₹4467,9%,4.5,"19,024",Great quality product with nice features.,"It is okay, nothing special."
+B000000636,Sample Product 636,Electronics|TV|Smart,₹2519,₹6945,60%,3.6,"45,350",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000637,Sample Product 637,Home|Kitchen|Appliances,₹1034,₹9614,54%,4.3,"15,998",Great quality product with nice features.,Do not buy this waste of money.
+B000000638,Sample Product 638,Computers|Laptops|Gaming,₹3142,₹2659,79%,2.7,"17,751",Great quality product with nice features.,Do not buy this waste of money.
+B000000639,Sample Product 639,Clothing|Men|Shirts,₹4597,₹5632,19%,3.0,"41,980",Great quality product with nice features.,"It is okay, nothing special."
+B000000640,Sample Product 640,Computers|Laptops|Gaming,₹1566,₹3047,36%,2.1,"22,838",Great quality product with nice features.,"It is okay, nothing special."
+B000000641,Sample Product 641,Computers|Laptops|Gaming,₹3661,₹3479,32%,4.9,"14,998",Great quality product with nice features.,"Terrible, broke after one day."
+B000000642,Sample Product 642,Clothing|Men|Shirts,₹714,₹3149,26%,4.0,"39,440",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000643,Sample Product 643,Electronics|TV|Smart,₹1282,₹9005,21%,4.8,"23,068",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000644,Sample Product 644,Clothing|Men|Shirts,₹3323,₹3583,63%,2.8,"45,040",Great quality product with nice features.,"Terrible, broke after one day."
+B000000645,Sample Product 645,Electronics|TV|Smart,₹2767,₹1537,75%,3.8,"20,924",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000646,Sample Product 646,Electronics|TV|Smart,₹230,₹3989,61%,4.0,"8,877",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000647,Sample Product 647,Electronics|TV|Smart,₹3083,₹8104,30%,3.0,"2,888",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000648,Sample Product 648,Clothing|Men|Shirts,₹4378,₹8044,29%,4.5,"42,423",Great quality product with nice features.,"Terrible, broke after one day."
+B000000649,Sample Product 649,Electronics|TV|Smart,₹4559,₹3134,14%,4.8,"36,855",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000650,Sample Product 650,Home|Kitchen|Appliances,₹138,₹4483,49%,4.7,"36,949",Great quality product with nice features.,Do not buy this waste of money.
+B000000651,Sample Product 651,Clothing|Men|Shirts,₹4059,₹2278,15%,4.2,"2,842",Great quality product with nice features.,"It is okay, nothing special."
+B000000652,Sample Product 652,Home|Kitchen|Appliances,₹3687,₹8402,57%,2.8,"28,757",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000653,Sample Product 653,Electronics|TV|Smart,₹1020,₹5610,76%,2.8,"6,041",Great quality product with nice features.,Do not buy this waste of money.
+B000000654,Sample Product 654,Computers|Laptops|Gaming,₹2869,₹5689,72%,4.9,"10,305",Great quality product with nice features.,Do not buy this waste of money.
+B000000655,Sample Product 655,Electronics|TV|Smart,₹4211,₹7878,32%,2.0,"30,342",Great quality product with nice features.,"Terrible, broke after one day."
+B000000656,Sample Product 656,Home|Kitchen|Appliances,₹592,₹1624,79%,4.1,"4,759",Great quality product with nice features.,"It is okay, nothing special."
+B000000657,Sample Product 657,Home|Kitchen|Appliances,₹1231,₹1197,69%,4.1,"17,011",Great quality product with nice features.,"It is okay, nothing special."
+B000000658,Sample Product 658,Clothing|Men|Shirts,₹3621,₹2679,53%,3.9,"31,659",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000659,Sample Product 659,Computers|Laptops|Gaming,₹410,₹5751,51%,5.0,"49,003",Great quality product with nice features.,"Terrible, broke after one day."
+B000000660,Sample Product 660,Clothing|Men|Shirts,₹838,₹9735,56%,2.9,"37,783",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000661,Sample Product 661,Home|Kitchen|Appliances,₹3341,₹2429,58%,3.0,"1,376",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000662,Sample Product 662,Electronics|TV|Smart,₹645,₹1513,64%,2.2,"33,950",Great quality product with nice features.,Do not buy this waste of money.
+B000000663,Sample Product 663,Computers|Laptops|Gaming,₹2561,₹726,61%,3.3,"22,093",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000664,Sample Product 664,Electronics|TV|Smart,₹4446,₹7821,51%,2.8,491,Great quality product with nice features.,Do not buy this waste of money.
+B000000665,Sample Product 665,Electronics|TV|Smart,₹4954,₹2328,35%,3.0,"3,730",Great quality product with nice features.,"Terrible, broke after one day."
+B000000666,Sample Product 666,Computers|Laptops|Gaming,₹1904,₹8409,50%,4.5,"5,975",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000667,Sample Product 667,Clothing|Men|Shirts,₹3312,₹6088,30%,4.8,"19,681",Great quality product with nice features.,"Terrible, broke after one day."
+B000000668,Sample Product 668,Electronics|TV|Smart,₹3910,₹2523,9%,2.6,"18,325",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000669,Sample Product 669,Home|Kitchen|Appliances,₹913,₹5466,56%,3.1,"31,335",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000670,Sample Product 670,Electronics|TV|Smart,₹4224,₹6391,79%,4.8,"21,399",Great quality product with nice features.,Do not buy this waste of money.
+B000000671,Sample Product 671,Computers|Laptops|Gaming,₹2132,₹1580,58%,2.2,"34,651",Great quality product with nice features.,"Terrible, broke after one day."
+B000000672,Sample Product 672,Computers|Laptops|Gaming,₹4672,₹5536,37%,2.3,"21,293",Great quality product with nice features.,"Terrible, broke after one day."
+B000000673,Sample Product 673,Computers|Laptops|Gaming,₹4513,₹3063,54%,2.5,"35,756",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000674,Sample Product 674,Clothing|Men|Shirts,₹344,₹3792,42%,3.8,"38,354",Great quality product with nice features.,"Terrible, broke after one day."
+B000000675,Sample Product 675,Electronics|TV|Smart,₹4943,₹4086,31%,2.5,"3,160",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000676,Sample Product 676,Clothing|Men|Shirts,₹4892,₹4931,19%,4.9,"32,627",Great quality product with nice features.,"It is okay, nothing special."
+B000000677,Sample Product 677,Clothing|Men|Shirts,₹371,₹7341,65%,3.3,"29,352",Great quality product with nice features.,"It is okay, nothing special."
+B000000678,Sample Product 678,Computers|Laptops|Gaming,₹3611,₹7143,25%,3.5,"37,299",Great quality product with nice features.,"It is okay, nothing special."
+B000000679,Sample Product 679,Computers|Laptops|Gaming,₹1871,₹4459,50%,2.7,"17,066",Great quality product with nice features.,"Terrible, broke after one day."
+B000000680,Sample Product 680,Clothing|Men|Shirts,₹1362,₹661,73%,3.4,"21,639",Great quality product with nice features.,"Terrible, broke after one day."
+B000000681,Sample Product 681,Electronics|TV|Smart,₹2524,₹1093,10%,4.0,"1,074",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000682,Sample Product 682,Home|Kitchen|Appliances,₹4461,₹3890,42%,4.3,"46,512",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000683,Sample Product 683,Clothing|Men|Shirts,₹1020,₹6497,66%,4.3,"18,772",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000684,Sample Product 684,Electronics|TV|Smart,₹3530,₹6854,66%,3.7,"35,462",Great quality product with nice features.,"It is okay, nothing special."
+B000000685,Sample Product 685,Computers|Laptops|Gaming,₹4535,₹1163,78%,4.7,"42,331",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000686,Sample Product 686,Computers|Laptops|Gaming,₹4584,₹9824,50%,4.5,"29,321",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000687,Sample Product 687,Electronics|TV|Smart,₹2724,₹1041,17%,4.3,"4,341",Great quality product with nice features.,"Terrible, broke after one day."
+B000000688,Sample Product 688,Home|Kitchen|Appliances,₹3860,₹5933,7%,2.2,"34,925",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000689,Sample Product 689,Computers|Laptops|Gaming,₹2150,₹5593,10%,2.0,"16,185",Great quality product with nice features.,"It is okay, nothing special."
+B000000690,Sample Product 690,Computers|Laptops|Gaming,₹3600,₹1367,12%,2.6,"40,735",Great quality product with nice features.,"It is okay, nothing special."
+B000000691,Sample Product 691,Computers|Laptops|Gaming,₹1265,₹9123,48%,4.0,"2,581",Great quality product with nice features.,"Terrible, broke after one day."
+B000000692,Sample Product 692,Electronics|TV|Smart,₹475,₹5969,37%,3.2,"40,026",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000693,Sample Product 693,Clothing|Men|Shirts,₹2133,₹6756,79%,3.2,"28,968",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000694,Sample Product 694,Computers|Laptops|Gaming,₹245,₹9898,54%,4.7,"2,160",Great quality product with nice features.,"Terrible, broke after one day."
+B000000695,Sample Product 695,Clothing|Men|Shirts,₹4488,₹1669,15%,4.7,"48,941",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000696,Sample Product 696,Home|Kitchen|Appliances,₹531,₹1330,32%,4.7,"13,901",Great quality product with nice features.,Do not buy this waste of money.
+B000000697,Sample Product 697,Computers|Laptops|Gaming,₹804,₹2151,74%,2.9,"11,441",Great quality product with nice features.,"It is okay, nothing special."
+B000000698,Sample Product 698,Computers|Laptops|Gaming,₹2732,₹1636,45%,4.1,"14,679",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000699,Sample Product 699,Home|Kitchen|Appliances,₹4594,₹3310,20%,2.8,"47,205",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000700,Sample Product 700,Computers|Laptops|Gaming,₹1063,₹9167,72%,2.6,"12,022",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000701,Sample Product 701,Clothing|Men|Shirts,₹2334,₹1519,52%,2.6,"6,773",Great quality product with nice features.,"It is okay, nothing special."
+B000000702,Sample Product 702,Electronics|TV|Smart,₹2141,₹5737,60%,3.0,"1,628",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000703,Sample Product 703,Clothing|Men|Shirts,₹1928,₹1783,68%,3.3,"44,433",Great quality product with nice features.,"Terrible, broke after one day."
+B000000704,Sample Product 704,Electronics|TV|Smart,₹2208,₹1159,63%,4.5,"8,220",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000705,Sample Product 705,Electronics|TV|Smart,₹4168,₹2510,66%,2.4,"23,465",Great quality product with nice features.,"Terrible, broke after one day."
+B000000706,Sample Product 706,Clothing|Men|Shirts,₹1038,₹9090,15%,4.2,"30,233",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000707,Sample Product 707,Clothing|Men|Shirts,₹4905,₹2233,22%,3.6,"42,482",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000708,Sample Product 708,Clothing|Men|Shirts,₹906,₹2625,23%,2.9,"8,489",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000709,Sample Product 709,Clothing|Men|Shirts,₹1563,₹2671,59%,3.5,"34,950",Great quality product with nice features.,Do not buy this waste of money.
+B000000710,Sample Product 710,Home|Kitchen|Appliances,₹3515,₹8766,30%,2.9,"44,363",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000711,Sample Product 711,Computers|Laptops|Gaming,₹110,₹3971,10%,3.8,"39,933",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000712,Sample Product 712,Electronics|TV|Smart,₹1968,₹9528,8%,3.3,"18,982",Great quality product with nice features.,"Terrible, broke after one day."
+B000000713,Sample Product 713,Clothing|Men|Shirts,₹4967,₹6124,33%,2.5,902,Great quality product with nice features.,Do not buy this waste of money.
+B000000714,Sample Product 714,Clothing|Men|Shirts,₹984,₹9191,63%,2.3,"22,445",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000715,Sample Product 715,Clothing|Men|Shirts,₹3664,₹8829,21%,3.6,"42,059",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000716,Sample Product 716,Home|Kitchen|Appliances,₹1489,₹2597,47%,4.7,"18,062",Great quality product with nice features.,Do not buy this waste of money.
+B000000717,Sample Product 717,Clothing|Men|Shirts,₹3501,₹5568,70%,3.0,"2,882",Great quality product with nice features.,Do not buy this waste of money.
+B000000718,Sample Product 718,Clothing|Men|Shirts,₹4421,₹6897,38%,4.2,"29,864",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000719,Sample Product 719,Clothing|Men|Shirts,₹924,₹3257,12%,4.0,"45,827",Great quality product with nice features.,"Terrible, broke after one day."
+B000000720,Sample Product 720,Computers|Laptops|Gaming,₹2365,₹4420,17%,4.8,"5,623",Great quality product with nice features.,Do not buy this waste of money.
+B000000721,Sample Product 721,Home|Kitchen|Appliances,₹1036,₹8686,12%,4.5,"1,379",Great quality product with nice features.,Do not buy this waste of money.
+B000000722,Sample Product 722,Clothing|Men|Shirts,₹2900,₹2400,69%,3.7,"17,633",Great quality product with nice features.,"It is okay, nothing special."
+B000000723,Sample Product 723,Electronics|TV|Smart,₹2653,₹3110,47%,4.0,"28,312",Great quality product with nice features.,Do not buy this waste of money.
+B000000724,Sample Product 724,Electronics|TV|Smart,₹3945,₹7400,43%,4.7,"5,651",Great quality product with nice features.,"Terrible, broke after one day."
+B000000725,Sample Product 725,Electronics|TV|Smart,₹1896,₹1949,63%,3.2,"45,202",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000726,Sample Product 726,Home|Kitchen|Appliances,₹153,₹9238,48%,3.0,"42,225",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000727,Sample Product 727,Home|Kitchen|Appliances,₹826,₹5517,13%,2.0,"7,037",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000728,Sample Product 728,Electronics|TV|Smart,₹2836,₹8499,41%,4.5,"39,256",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000729,Sample Product 729,Clothing|Men|Shirts,₹3270,₹6552,78%,4.4,"22,500",Great quality product with nice features.,"It is okay, nothing special."
+B000000730,Sample Product 730,Home|Kitchen|Appliances,₹2013,₹2596,40%,2.3,"37,017",Great quality product with nice features.,Do not buy this waste of money.
+B000000731,Sample Product 731,Electronics|TV|Smart,₹1696,₹9395,32%,3.7,"4,604",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000732,Sample Product 732,Electronics|TV|Smart,₹2014,₹6904,46%,3.4,"27,774",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000733,Sample Product 733,Clothing|Men|Shirts,₹2566,₹3831,47%,2.4,"19,938",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000734,Sample Product 734,Computers|Laptops|Gaming,₹2837,₹7962,46%,4.9,"12,633",Great quality product with nice features.,Do not buy this waste of money.
+B000000735,Sample Product 735,Home|Kitchen|Appliances,₹949,₹5605,70%,2.6,"30,608",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000736,Sample Product 736,Clothing|Men|Shirts,₹2209,₹3478,59%,2.2,"26,338",Great quality product with nice features.,"It is okay, nothing special."
+B000000737,Sample Product 737,Electronics|TV|Smart,₹102,₹3339,76%,3.8,221,Great quality product with nice features.,"Terrible, broke after one day."
+B000000738,Sample Product 738,Electronics|TV|Smart,₹4355,₹3884,52%,4.2,"46,995",Great quality product with nice features.,"Terrible, broke after one day."
+B000000739,Sample Product 739,Clothing|Men|Shirts,₹4169,₹1185,26%,2.1,"4,819",Great quality product with nice features.,Do not buy this waste of money.
+B000000740,Sample Product 740,Home|Kitchen|Appliances,₹4976,₹8031,31%,4.0,"7,350",Great quality product with nice features.,"Terrible, broke after one day."
+B000000741,Sample Product 741,Computers|Laptops|Gaming,₹992,₹4783,71%,3.6,"5,619",Great quality product with nice features.,"Terrible, broke after one day."
+B000000742,Sample Product 742,Computers|Laptops|Gaming,₹2130,₹8236,17%,2.3,"27,465",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000743,Sample Product 743,Electronics|TV|Smart,₹3260,₹8210,49%,2.5,"42,625",Great quality product with nice features.,Do not buy this waste of money.
+B000000744,Sample Product 744,Home|Kitchen|Appliances,₹2476,₹2119,14%,3.7,"37,345",Great quality product with nice features.,Do not buy this waste of money.
+B000000745,Sample Product 745,Computers|Laptops|Gaming,₹4775,₹7368,13%,2.9,"18,256",Great quality product with nice features.,"Terrible, broke after one day."
+B000000746,Sample Product 746,Home|Kitchen|Appliances,₹2033,₹1931,58%,4.8,"24,300",Great quality product with nice features.,"Terrible, broke after one day."
+B000000747,Sample Product 747,Home|Kitchen|Appliances,₹1480,₹9567,31%,4.5,"47,976",Great quality product with nice features.,"Terrible, broke after one day."
+B000000748,Sample Product 748,Electronics|TV|Smart,₹3781,₹5213,38%,5.0,"1,463",Great quality product with nice features.,"It is okay, nothing special."
+B000000749,Sample Product 749,Computers|Laptops|Gaming,₹1390,₹9935,5%,2.8,"15,906",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000750,Sample Product 750,Clothing|Men|Shirts,₹1740,₹5498,36%,4.9,"24,921",Great quality product with nice features.,"It is okay, nothing special."
+B000000751,Sample Product 751,Electronics|TV|Smart,₹2782,₹662,75%,3.3,"16,253",Great quality product with nice features.,Do not buy this waste of money.
+B000000752,Sample Product 752,Computers|Laptops|Gaming,₹1087,₹2474,71%,3.0,"41,005",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000753,Sample Product 753,Computers|Laptops|Gaming,₹1318,₹3791,24%,2.2,"40,582",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000754,Sample Product 754,Computers|Laptops|Gaming,₹1455,₹8961,39%,2.2,"34,837",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000755,Sample Product 755,Computers|Laptops|Gaming,₹4365,₹1131,21%,4.1,"5,754",Great quality product with nice features.,Do not buy this waste of money.
+B000000756,Sample Product 756,Computers|Laptops|Gaming,₹4716,₹1405,22%,3.4,"40,006",Great quality product with nice features.,Do not buy this waste of money.
+B000000757,Sample Product 757,Home|Kitchen|Appliances,₹4235,₹2514,49%,2.7,"14,176",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000758,Sample Product 758,Electronics|TV|Smart,₹1660,₹8396,57%,3.8,"6,192",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000759,Sample Product 759,Home|Kitchen|Appliances,₹1518,₹704,72%,2.8,"17,899",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000760,Sample Product 760,Clothing|Men|Shirts,₹1054,₹1081,69%,3.7,"18,983",Great quality product with nice features.,Do not buy this waste of money.
+B000000761,Sample Product 761,Computers|Laptops|Gaming,₹1083,₹6175,5%,3.1,"14,623",Great quality product with nice features.,"Terrible, broke after one day."
+B000000762,Sample Product 762,Electronics|TV|Smart,₹1074,₹9532,62%,4.5,"1,002",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000763,Sample Product 763,Computers|Laptops|Gaming,₹4233,₹5847,30%,4.5,"47,646",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000764,Sample Product 764,Electronics|TV|Smart,₹4072,₹3143,24%,3.4,"43,001",Great quality product with nice features.,Do not buy this waste of money.
+B000000765,Sample Product 765,Home|Kitchen|Appliances,₹1013,₹8517,14%,3.1,"23,284",Great quality product with nice features.,"It is okay, nothing special."
+B000000766,Sample Product 766,Electronics|TV|Smart,₹4649,₹2797,63%,3.1,"21,436",Great quality product with nice features.,"It is okay, nothing special."
+B000000767,Sample Product 767,Clothing|Men|Shirts,₹136,₹1374,79%,4.4,"27,224",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000768,Sample Product 768,Clothing|Men|Shirts,₹3487,₹6060,45%,3.0,"37,245",Great quality product with nice features.,"Terrible, broke after one day."
+B000000769,Sample Product 769,Electronics|TV|Smart,₹1811,₹1189,9%,2.6,"30,025",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000770,Sample Product 770,Electronics|TV|Smart,₹3120,₹4500,69%,2.3,"49,631",Great quality product with nice features.,Do not buy this waste of money.
+B000000771,Sample Product 771,Electronics|TV|Smart,₹895,₹1171,21%,3.4,"30,735",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000772,Sample Product 772,Electronics|TV|Smart,₹4136,₹8427,26%,3.4,516,Great quality product with nice features.,Do not buy this waste of money.
+B000000773,Sample Product 773,Clothing|Men|Shirts,₹4788,₹1671,45%,4.5,"45,247",Great quality product with nice features.,"It is okay, nothing special."
+B000000774,Sample Product 774,Computers|Laptops|Gaming,₹3211,₹6091,72%,2.7,"1,192",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000775,Sample Product 775,Electronics|TV|Smart,₹1424,₹9635,73%,3.1,"32,265",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000776,Sample Product 776,Electronics|TV|Smart,₹417,₹6842,15%,4.4,"43,629",Great quality product with nice features.,"Terrible, broke after one day."
+B000000777,Sample Product 777,Clothing|Men|Shirts,₹2496,₹1949,60%,4.5,"46,217",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000778,Sample Product 778,Clothing|Men|Shirts,₹2262,₹3039,55%,3.2,"6,298",Great quality product with nice features.,"Terrible, broke after one day."
+B000000779,Sample Product 779,Home|Kitchen|Appliances,₹2845,₹4459,25%,3.4,"27,857",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000780,Sample Product 780,Electronics|TV|Smart,₹1691,₹6785,30%,2.9,"49,424",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000781,Sample Product 781,Home|Kitchen|Appliances,₹3211,₹5932,23%,4.8,"8,335",Great quality product with nice features.,"Terrible, broke after one day."
+B000000782,Sample Product 782,Clothing|Men|Shirts,₹4030,₹4760,64%,2.4,"24,163",Great quality product with nice features.,"It is okay, nothing special."
+B000000783,Sample Product 783,Clothing|Men|Shirts,₹2096,₹2861,75%,4.8,"6,009",Great quality product with nice features.,Do not buy this waste of money.
+B000000784,Sample Product 784,Computers|Laptops|Gaming,₹1412,₹6664,51%,4.1,"7,988",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000785,Sample Product 785,Electronics|TV|Smart,₹1385,₹4170,75%,3.6,"30,967",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000786,Sample Product 786,Home|Kitchen|Appliances,₹4411,₹2253,30%,2.1,"3,333",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000787,Sample Product 787,Clothing|Men|Shirts,₹2483,₹8600,44%,3.4,788,Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000788,Sample Product 788,Clothing|Men|Shirts,₹3339,₹2438,9%,3.2,"38,991",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000789,Sample Product 789,Home|Kitchen|Appliances,₹2239,₹9062,25%,2.5,"9,874",Great quality product with nice features.,Do not buy this waste of money.
+B000000790,Sample Product 790,Computers|Laptops|Gaming,₹1804,₹6476,8%,4.0,"17,007",Great quality product with nice features.,Do not buy this waste of money.
+B000000791,Sample Product 791,Clothing|Men|Shirts,₹462,₹7088,27%,4.9,"20,226",Great quality product with nice features.,"Terrible, broke after one day."
+B000000792,Sample Product 792,Electronics|TV|Smart,₹2704,₹9116,19%,3.7,"36,445",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000793,Sample Product 793,Clothing|Men|Shirts,₹1816,₹6804,12%,4.1,"35,341",Great quality product with nice features.,Do not buy this waste of money.
+B000000794,Sample Product 794,Electronics|TV|Smart,₹4551,₹7845,45%,2.2,"39,684",Great quality product with nice features.,"It is okay, nothing special."
+B000000795,Sample Product 795,Home|Kitchen|Appliances,₹4386,₹8375,23%,3.3,"5,034",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000796,Sample Product 796,Electronics|TV|Smart,₹3838,₹9586,50%,2.3,"7,789",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000797,Sample Product 797,Home|Kitchen|Appliances,₹2569,₹7133,32%,3.8,"15,690",Great quality product with nice features.,Do not buy this waste of money.
+B000000798,Sample Product 798,Electronics|TV|Smart,₹4895,₹1097,72%,4.8,"44,221",Great quality product with nice features.,"It is okay, nothing special."
+B000000799,Sample Product 799,Home|Kitchen|Appliances,₹656,₹3562,19%,4.0,"21,599",Great quality product with nice features.,"Terrible, broke after one day."
+B000000800,Sample Product 800,Electronics|TV|Smart,₹925,₹2836,41%,2.2,"37,481",Great quality product with nice features.,Do not buy this waste of money.
+B000000801,Sample Product 801,Computers|Laptops|Gaming,₹2908,₹1072,5%,3.1,"29,704",Great quality product with nice features.,"It is okay, nothing special."
+B000000802,Sample Product 802,Electronics|TV|Smart,₹4621,₹8021,71%,3.7,67,Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000803,Sample Product 803,Electronics|TV|Smart,₹2819,₹6671,28%,3.2,"48,624",Great quality product with nice features.,"It is okay, nothing special."
+B000000804,Sample Product 804,Computers|Laptops|Gaming,₹3608,₹7597,31%,4.5,"45,247",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000805,Sample Product 805,Clothing|Men|Shirts,₹3841,₹2590,44%,4.4,"7,534",Great quality product with nice features.,Do not buy this waste of money.
+B000000806,Sample Product 806,Clothing|Men|Shirts,₹1674,₹7066,67%,3.8,"15,104",Great quality product with nice features.,Do not buy this waste of money.
+B000000807,Sample Product 807,Electronics|TV|Smart,₹4098,₹5124,65%,3.1,"4,617",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000808,Sample Product 808,Computers|Laptops|Gaming,₹2229,₹2133,40%,2.8,"46,046",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000809,Sample Product 809,Electronics|TV|Smart,₹2503,₹2017,28%,2.3,"38,499",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000810,Sample Product 810,Home|Kitchen|Appliances,₹3429,₹4148,28%,3.1,"43,493",Great quality product with nice features.,Do not buy this waste of money.
+B000000811,Sample Product 811,Home|Kitchen|Appliances,₹688,₹2037,8%,3.2,"11,773",Great quality product with nice features.,"Terrible, broke after one day."
+B000000812,Sample Product 812,Electronics|TV|Smart,₹2112,₹3637,71%,4.0,"23,850",Great quality product with nice features.,Do not buy this waste of money.
+B000000813,Sample Product 813,Clothing|Men|Shirts,₹1647,₹7485,38%,4.0,"49,037",Great quality product with nice features.,"It is okay, nothing special."
+B000000814,Sample Product 814,Clothing|Men|Shirts,₹394,₹597,61%,2.2,"12,941",Great quality product with nice features.,Do not buy this waste of money.
+B000000815,Sample Product 815,Electronics|TV|Smart,₹2085,₹4250,53%,3.2,"16,933",Great quality product with nice features.,Do not buy this waste of money.
+B000000816,Sample Product 816,Electronics|TV|Smart,₹3217,₹9035,57%,2.5,"29,770",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000817,Sample Product 817,Home|Kitchen|Appliances,₹1790,₹8674,27%,2.5,"24,649",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000818,Sample Product 818,Clothing|Men|Shirts,₹1236,₹8603,73%,4.5,"47,412",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000819,Sample Product 819,Electronics|TV|Smart,₹2164,₹5913,57%,2.1,"32,967",Great quality product with nice features.,Do not buy this waste of money.
+B000000820,Sample Product 820,Home|Kitchen|Appliances,₹4555,₹5166,66%,3.3,"27,778",Great quality product with nice features.,"Terrible, broke after one day."
+B000000821,Sample Product 821,Clothing|Men|Shirts,₹4895,₹1110,45%,2.5,"32,568",Great quality product with nice features.,"It is okay, nothing special."
+B000000822,Sample Product 822,Computers|Laptops|Gaming,₹4643,₹2227,61%,4.6,"49,724",Great quality product with nice features.,"It is okay, nothing special."
+B000000823,Sample Product 823,Home|Kitchen|Appliances,₹4870,₹2354,64%,3.7,"17,175",Great quality product with nice features.,"Terrible, broke after one day."
+B000000824,Sample Product 824,Clothing|Men|Shirts,₹1107,₹5555,58%,2.7,"42,599",Great quality product with nice features.,"Terrible, broke after one day."
+B000000825,Sample Product 825,Clothing|Men|Shirts,₹2614,₹2824,74%,3.5,"13,799",Great quality product with nice features.,"It is okay, nothing special."
+B000000826,Sample Product 826,Home|Kitchen|Appliances,₹3626,₹9869,61%,4.2,"17,559",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000827,Sample Product 827,Computers|Laptops|Gaming,₹4781,₹9783,14%,4.9,"44,238",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000828,Sample Product 828,Home|Kitchen|Appliances,₹1347,₹6274,44%,2.7,179,Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000829,Sample Product 829,Clothing|Men|Shirts,₹4002,₹7019,11%,4.7,"20,471",Great quality product with nice features.,"It is okay, nothing special."
+B000000830,Sample Product 830,Electronics|TV|Smart,₹1535,₹2249,42%,4.8,"17,119",Great quality product with nice features.,"Terrible, broke after one day."
+B000000831,Sample Product 831,Electronics|TV|Smart,₹671,₹1281,65%,4.7,"22,617",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000832,Sample Product 832,Home|Kitchen|Appliances,₹2482,₹8048,7%,3.9,799,Great quality product with nice features.,"It is okay, nothing special."
+B000000833,Sample Product 833,Clothing|Men|Shirts,₹1345,₹7323,55%,3.9,"7,602",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000834,Sample Product 834,Electronics|TV|Smart,₹2184,₹2605,51%,3.2,"25,364",Great quality product with nice features.,Do not buy this waste of money.
+B000000835,Sample Product 835,Clothing|Men|Shirts,₹377,₹4367,72%,4.3,"2,796",Great quality product with nice features.,"Terrible, broke after one day."
+B000000836,Sample Product 836,Home|Kitchen|Appliances,₹1987,₹7693,42%,3.6,"31,927",Great quality product with nice features.,Do not buy this waste of money.
+B000000837,Sample Product 837,Electronics|TV|Smart,₹4679,₹5476,40%,4.0,"45,265",Great quality product with nice features.,"It is okay, nothing special."
+B000000838,Sample Product 838,Clothing|Men|Shirts,₹1365,₹2613,45%,3.3,"37,357",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000839,Sample Product 839,Electronics|TV|Smart,₹4926,₹6379,73%,4.2,"7,298",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000840,Sample Product 840,Home|Kitchen|Appliances,₹1140,₹4470,17%,4.5,"3,085",Great quality product with nice features.,Do not buy this waste of money.
+B000000841,Sample Product 841,Clothing|Men|Shirts,₹1017,₹9759,62%,2.4,"30,330",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000842,Sample Product 842,Electronics|TV|Smart,₹985,₹7764,54%,4.5,"11,111",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000843,Sample Product 843,Home|Kitchen|Appliances,₹2852,₹2077,34%,3.6,732,Great quality product with nice features.,Do not buy this waste of money.
+B000000844,Sample Product 844,Electronics|TV|Smart,₹121,₹9703,66%,4.5,"1,130",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000845,Sample Product 845,Electronics|TV|Smart,₹4669,₹2774,29%,3.3,"28,023",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000846,Sample Product 846,Computers|Laptops|Gaming,₹3291,₹5369,31%,3.1,"1,606",Great quality product with nice features.,Do not buy this waste of money.
+B000000847,Sample Product 847,Computers|Laptops|Gaming,₹2453,₹7244,55%,4.7,"11,971",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000848,Sample Product 848,Home|Kitchen|Appliances,₹4899,₹2926,61%,2.8,"43,706",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000849,Sample Product 849,Computers|Laptops|Gaming,₹786,₹6046,51%,4.5,"44,131",Great quality product with nice features.,"It is okay, nothing special."
+B000000850,Sample Product 850,Home|Kitchen|Appliances,₹384,₹7352,43%,3.5,"29,266",Great quality product with nice features.,Do not buy this waste of money.
+B000000851,Sample Product 851,Computers|Laptops|Gaming,₹4911,₹3051,20%,3.5,"32,331",Great quality product with nice features.,"Terrible, broke after one day."
+B000000852,Sample Product 852,Electronics|TV|Smart,₹3847,₹6911,26%,2.9,"2,934",Great quality product with nice features.,"Terrible, broke after one day."
+B000000853,Sample Product 853,Home|Kitchen|Appliances,₹862,₹507,58%,3.7,"15,188",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000854,Sample Product 854,Home|Kitchen|Appliances,₹2528,₹8587,25%,3.0,"25,792",Great quality product with nice features.,"It is okay, nothing special."
+B000000855,Sample Product 855,Electronics|TV|Smart,₹2607,₹3055,76%,2.1,"24,901",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000856,Sample Product 856,Home|Kitchen|Appliances,₹128,₹975,20%,2.8,"5,075",Great quality product with nice features.,"Terrible, broke after one day."
+B000000857,Sample Product 857,Home|Kitchen|Appliances,₹1006,₹5916,63%,2.0,"46,806",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000858,Sample Product 858,Computers|Laptops|Gaming,₹3204,₹9176,35%,4.9,"26,427",Great quality product with nice features.,"It is okay, nothing special."
+B000000859,Sample Product 859,Home|Kitchen|Appliances,₹4099,₹7739,46%,4.9,"39,868",Great quality product with nice features.,"It is okay, nothing special."
+B000000860,Sample Product 860,Clothing|Men|Shirts,₹3094,₹7210,78%,3.2,894,Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000861,Sample Product 861,Electronics|TV|Smart,₹2606,₹5500,36%,4.2,"34,159",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000862,Sample Product 862,Computers|Laptops|Gaming,₹4765,₹5154,63%,3.0,"19,774",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000863,Sample Product 863,Computers|Laptops|Gaming,₹3709,₹8578,38%,4.0,"4,240",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000864,Sample Product 864,Clothing|Men|Shirts,₹3653,₹6563,13%,4.4,"20,864",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000865,Sample Product 865,Electronics|TV|Smart,₹1553,₹2785,15%,4.8,"3,433",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000866,Sample Product 866,Electronics|TV|Smart,₹4933,₹5723,14%,3.2,"35,140",Great quality product with nice features.,Do not buy this waste of money.
+B000000867,Sample Product 867,Computers|Laptops|Gaming,₹3456,₹7471,21%,4.3,"1,516",Great quality product with nice features.,"It is okay, nothing special."
+B000000868,Sample Product 868,Home|Kitchen|Appliances,₹615,₹4025,72%,2.8,"31,671",Great quality product with nice features.,"It is okay, nothing special."
+B000000869,Sample Product 869,Computers|Laptops|Gaming,₹138,₹3322,52%,5.0,"48,675",Great quality product with nice features.,"It is okay, nothing special."
+B000000870,Sample Product 870,Electronics|TV|Smart,₹3442,₹5443,56%,2.1,"39,095",Great quality product with nice features.,Do not buy this waste of money.
+B000000871,Sample Product 871,Clothing|Men|Shirts,₹986,₹7030,29%,3.8,"14,606",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000872,Sample Product 872,Computers|Laptops|Gaming,₹2944,₹758,25%,4.0,"5,587",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000873,Sample Product 873,Electronics|TV|Smart,₹2304,₹782,69%,4.1,"35,686",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000874,Sample Product 874,Computers|Laptops|Gaming,₹1198,₹2398,67%,2.4,"48,670",Great quality product with nice features.,Do not buy this waste of money.
+B000000875,Sample Product 875,Home|Kitchen|Appliances,₹1923,₹4635,55%,4.8,"31,187",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000876,Sample Product 876,Computers|Laptops|Gaming,₹3301,₹7129,40%,2.5,"26,929",Great quality product with nice features.,Do not buy this waste of money.
+B000000877,Sample Product 877,Computers|Laptops|Gaming,₹3255,₹3700,70%,3.9,"32,729",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000878,Sample Product 878,Electronics|TV|Smart,₹3193,₹5610,19%,2.7,"17,552",Great quality product with nice features.,"Terrible, broke after one day."
+B000000879,Sample Product 879,Electronics|TV|Smart,₹3630,₹7667,43%,2.9,"21,494",Great quality product with nice features.,"It is okay, nothing special."
+B000000880,Sample Product 880,Electronics|TV|Smart,₹3878,₹1112,74%,3.6,"20,712",Great quality product with nice features.,"It is okay, nothing special."
+B000000881,Sample Product 881,Computers|Laptops|Gaming,₹2996,₹1187,5%,3.3,"20,040",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000882,Sample Product 882,Home|Kitchen|Appliances,₹3553,₹4190,27%,2.5,"36,562",Great quality product with nice features.,"Terrible, broke after one day."
+B000000883,Sample Product 883,Clothing|Men|Shirts,₹3611,₹9304,43%,2.5,"9,948",Great quality product with nice features.,"It is okay, nothing special."
+B000000884,Sample Product 884,Clothing|Men|Shirts,₹1088,₹2807,61%,3.3,"32,336",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000885,Sample Product 885,Electronics|TV|Smart,₹4216,₹7633,38%,4.3,"15,860",Great quality product with nice features.,"Terrible, broke after one day."
+B000000886,Sample Product 886,Electronics|TV|Smart,₹4126,₹7009,45%,4.7,"23,123",Great quality product with nice features.,"It is okay, nothing special."
+B000000887,Sample Product 887,Computers|Laptops|Gaming,₹4279,₹6406,77%,2.3,"1,578",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000888,Sample Product 888,Clothing|Men|Shirts,₹1782,₹3091,17%,3.2,"42,257",Great quality product with nice features.,Do not buy this waste of money.
+B000000889,Sample Product 889,Electronics|TV|Smart,₹4765,₹7683,74%,2.3,"28,351",Great quality product with nice features.,"Terrible, broke after one day."
+B000000890,Sample Product 890,Home|Kitchen|Appliances,₹4063,₹5748,10%,2.0,"41,933",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000891,Sample Product 891,Home|Kitchen|Appliances,₹1033,₹9266,56%,4.0,"33,799",Great quality product with nice features.,"Terrible, broke after one day."
+B000000892,Sample Product 892,Electronics|TV|Smart,₹3698,₹5608,7%,3.8,"31,899",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000893,Sample Product 893,Electronics|TV|Smart,₹3333,₹4104,67%,2.5,"15,882",Great quality product with nice features.,"Terrible, broke after one day."
+B000000894,Sample Product 894,Clothing|Men|Shirts,₹2080,₹1169,53%,2.7,"10,786",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000895,Sample Product 895,Clothing|Men|Shirts,₹1955,₹4864,51%,2.1,"6,692",Great quality product with nice features.,"It is okay, nothing special."
+B000000896,Sample Product 896,Computers|Laptops|Gaming,₹3156,₹7829,59%,4.5,"17,298",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000897,Sample Product 897,Clothing|Men|Shirts,₹892,₹1783,68%,4.9,"6,359",Great quality product with nice features.,"It is okay, nothing special."
+B000000898,Sample Product 898,Home|Kitchen|Appliances,₹891,₹1423,69%,2.4,"19,582",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000899,Sample Product 899,Home|Kitchen|Appliances,₹1909,₹1625,71%,2.7,"1,463",Great quality product with nice features.,"It is okay, nothing special."
+B000000900,Sample Product 900,Electronics|TV|Smart,₹2355,₹2029,19%,4.6,"15,512",Great quality product with nice features.,"It is okay, nothing special."
+B000000901,Sample Product 901,Clothing|Men|Shirts,₹3710,₹8938,36%,4.8,"10,571",Great quality product with nice features.,"Terrible, broke after one day."
+B000000902,Sample Product 902,Computers|Laptops|Gaming,₹1707,₹4211,72%,3.3,"48,666",Great quality product with nice features.,Do not buy this waste of money.
+B000000903,Sample Product 903,Home|Kitchen|Appliances,₹1084,₹8504,22%,2.2,"44,415",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000904,Sample Product 904,Home|Kitchen|Appliances,₹3776,₹6774,47%,2.1,"15,475",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000905,Sample Product 905,Computers|Laptops|Gaming,₹3480,₹4364,39%,3.7,"7,038",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000906,Sample Product 906,Computers|Laptops|Gaming,₹619,₹8333,62%,3.2,"28,130",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000907,Sample Product 907,Home|Kitchen|Appliances,₹690,₹7288,37%,2.1,"42,268",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000908,Sample Product 908,Home|Kitchen|Appliances,₹1150,₹726,18%,3.7,"13,387",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000909,Sample Product 909,Computers|Laptops|Gaming,₹3733,₹764,38%,2.0,"6,222",Great quality product with nice features.,"Terrible, broke after one day."
+B000000910,Sample Product 910,Home|Kitchen|Appliances,₹4544,₹1145,65%,4.4,"23,475",Great quality product with nice features.,"It is okay, nothing special."
+B000000911,Sample Product 911,Electronics|TV|Smart,₹1059,₹8044,8%,2.9,"40,538",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000912,Sample Product 912,Electronics|TV|Smart,₹792,₹6069,63%,2.1,"49,840",Great quality product with nice features.,Do not buy this waste of money.
+B000000913,Sample Product 913,Computers|Laptops|Gaming,₹3999,₹3490,33%,3.8,"47,125",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000914,Sample Product 914,Clothing|Men|Shirts,₹4573,₹3004,10%,3.2,"21,046",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000915,Sample Product 915,Computers|Laptops|Gaming,₹3046,₹9846,53%,4.9,"25,784",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000916,Sample Product 916,Computers|Laptops|Gaming,₹626,₹1087,44%,3.6,"40,158",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000917,Sample Product 917,Clothing|Men|Shirts,₹3324,₹9677,69%,2.8,"4,923",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000918,Sample Product 918,Clothing|Men|Shirts,₹2353,₹4579,73%,4.1,"46,408",Great quality product with nice features.,"Terrible, broke after one day."
+B000000919,Sample Product 919,Clothing|Men|Shirts,₹3444,₹3848,31%,2.8,"22,707",Great quality product with nice features.,Do not buy this waste of money.
+B000000920,Sample Product 920,Electronics|TV|Smart,₹4065,₹6799,10%,4.7,"42,772",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000921,Sample Product 921,Home|Kitchen|Appliances,₹1975,₹4331,17%,3.1,"32,480",Great quality product with nice features.,"Terrible, broke after one day."
+B000000922,Sample Product 922,Electronics|TV|Smart,₹1863,₹9933,68%,3.6,"5,179",Great quality product with nice features.,"Terrible, broke after one day."
+B000000923,Sample Product 923,Home|Kitchen|Appliances,₹620,₹8881,66%,2.2,"30,023",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000924,Sample Product 924,Electronics|TV|Smart,₹1116,₹9672,23%,3.3,"15,241",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000925,Sample Product 925,Home|Kitchen|Appliances,₹216,₹2215,47%,4.5,"26,221",Great quality product with nice features.,"Terrible, broke after one day."
+B000000926,Sample Product 926,Electronics|TV|Smart,₹2533,₹6950,78%,4.4,"36,737",Great quality product with nice features.,"Terrible, broke after one day."
+B000000927,Sample Product 927,Clothing|Men|Shirts,₹683,₹5933,24%,2.7,"2,717",Great quality product with nice features.,"Terrible, broke after one day."
+B000000928,Sample Product 928,Computers|Laptops|Gaming,₹494,₹1598,72%,2.7,"16,575",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000929,Sample Product 929,Electronics|TV|Smart,₹3888,₹7596,48%,4.5,"46,280",Great quality product with nice features.,"Terrible, broke after one day."
+B000000930,Sample Product 930,Home|Kitchen|Appliances,₹2868,₹2826,27%,4.8,"17,720",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000931,Sample Product 931,Clothing|Men|Shirts,₹4267,₹9587,6%,2.3,"8,182",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000932,Sample Product 932,Electronics|TV|Smart,₹3960,₹6916,26%,3.4,"45,764",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000933,Sample Product 933,Electronics|TV|Smart,₹373,₹7480,61%,3.0,"44,067",Great quality product with nice features.,"It is okay, nothing special."
+B000000934,Sample Product 934,Clothing|Men|Shirts,₹2113,₹7263,76%,4.6,"49,531",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000935,Sample Product 935,Electronics|TV|Smart,₹4533,₹2174,11%,2.3,"20,214",Great quality product with nice features.,"It is okay, nothing special."
+B000000936,Sample Product 936,Computers|Laptops|Gaming,₹1489,₹8450,60%,2.6,"6,381",Great quality product with nice features.,"Terrible, broke after one day."
+B000000937,Sample Product 937,Electronics|TV|Smart,₹3666,₹9622,71%,4.3,616,Great quality product with nice features.,"Terrible, broke after one day."
+B000000938,Sample Product 938,Computers|Laptops|Gaming,₹4802,₹9415,20%,2.2,464,Great quality product with nice features.,Do not buy this waste of money.
+B000000939,Sample Product 939,Computers|Laptops|Gaming,₹265,₹6549,55%,3.5,"31,974",Great quality product with nice features.,"Terrible, broke after one day."
+B000000940,Sample Product 940,Clothing|Men|Shirts,₹1667,₹1589,76%,3.3,"9,159",Great quality product with nice features.,"It is okay, nothing special."
+B000000941,Sample Product 941,Electronics|TV|Smart,₹828,₹5078,16%,3.0,"20,652",Great quality product with nice features.,"Terrible, broke after one day."
+B000000942,Sample Product 942,Clothing|Men|Shirts,₹2143,₹9627,57%,3.2,"3,159",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000943,Sample Product 943,Electronics|TV|Smart,₹4297,₹655,79%,3.6,"20,009",Great quality product with nice features.,"Terrible, broke after one day."
+B000000944,Sample Product 944,Electronics|TV|Smart,₹3596,₹9762,9%,2.5,"46,203",Great quality product with nice features.,Do not buy this waste of money.
+B000000945,Sample Product 945,Home|Kitchen|Appliances,₹878,₹2458,31%,3.7,"4,939",Great quality product with nice features.,"Terrible, broke after one day."
+B000000946,Sample Product 946,Electronics|TV|Smart,₹313,₹6844,16%,4.4,"38,186",Great quality product with nice features.,"It is okay, nothing special."
+B000000947,Sample Product 947,Clothing|Men|Shirts,₹3862,₹6279,21%,4.3,"22,389",Great quality product with nice features.,"It is okay, nothing special."
+B000000948,Sample Product 948,Computers|Laptops|Gaming,₹1676,₹6644,10%,2.5,"8,882",Great quality product with nice features.,"Terrible, broke after one day."
+B000000949,Sample Product 949,Electronics|TV|Smart,₹2548,₹5563,9%,2.4,"5,604",Great quality product with nice features.,"It is okay, nothing special."
+B000000950,Sample Product 950,Home|Kitchen|Appliances,₹3036,₹4330,61%,2.8,"34,981",Great quality product with nice features.,"It is okay, nothing special."
+B000000951,Sample Product 951,Clothing|Men|Shirts,₹3217,₹9546,32%,3.1,"22,505",Great quality product with nice features.,Do not buy this waste of money.
+B000000952,Sample Product 952,Electronics|TV|Smart,₹691,₹9331,73%,3.2,"16,767",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000953,Sample Product 953,Clothing|Men|Shirts,₹2820,₹7159,63%,4.0,"28,387",Great quality product with nice features.,Do not buy this waste of money.
+B000000954,Sample Product 954,Home|Kitchen|Appliances,₹813,₹941,37%,2.2,"11,696",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000955,Sample Product 955,Home|Kitchen|Appliances,₹1035,₹6540,66%,2.1,"17,797",Great quality product with nice features.,Do not buy this waste of money.
+B000000956,Sample Product 956,Clothing|Men|Shirts,₹4437,₹6425,54%,3.2,"42,544",Great quality product with nice features.,"Terrible, broke after one day."
+B000000957,Sample Product 957,Electronics|TV|Smart,₹101,₹7858,23%,4.1,"14,560",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000958,Sample Product 958,Computers|Laptops|Gaming,₹2948,₹5128,73%,2.6,"38,915",Great quality product with nice features.,"Terrible, broke after one day."
+B000000959,Sample Product 959,Home|Kitchen|Appliances,₹4144,₹6870,70%,3.9,"33,140",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000960,Sample Product 960,Electronics|TV|Smart,₹2049,₹1448,51%,2.8,"38,334",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000961,Sample Product 961,Electronics|TV|Smart,₹1017,₹8679,43%,4.7,"8,803",Great quality product with nice features.,"It is okay, nothing special."
+B000000962,Sample Product 962,Computers|Laptops|Gaming,₹3274,₹6615,72%,4.7,"8,308",Great quality product with nice features.,Do not buy this waste of money.
+B000000963,Sample Product 963,Home|Kitchen|Appliances,₹2341,₹959,37%,2.9,"40,206",Great quality product with nice features.,"Terrible, broke after one day."
+B000000964,Sample Product 964,Home|Kitchen|Appliances,₹189,₹8068,17%,2.7,"33,215",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000965,Sample Product 965,Electronics|TV|Smart,₹1809,₹5146,58%,3.2,"34,160",Great quality product with nice features.,"It is okay, nothing special."
+B000000966,Sample Product 966,Electronics|TV|Smart,₹2269,₹892,11%,2.7,"11,517",Great quality product with nice features.,Do not buy this waste of money.
+B000000967,Sample Product 967,Computers|Laptops|Gaming,₹4338,₹2287,18%,4.0,"29,087",Great quality product with nice features.,"It is okay, nothing special."
+B000000968,Sample Product 968,Computers|Laptops|Gaming,₹3141,₹7874,23%,4.5,"48,223",Great quality product with nice features.,Do not buy this waste of money.
+B000000969,Sample Product 969,Home|Kitchen|Appliances,₹205,₹1638,58%,4.0,"30,481",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000970,Sample Product 970,Clothing|Men|Shirts,₹986,₹5241,24%,4.5,"44,660",Great quality product with nice features.,"It is okay, nothing special."
+B000000971,Sample Product 971,Home|Kitchen|Appliances,₹527,₹7918,33%,3.2,"47,767",Great quality product with nice features.,"It is okay, nothing special."
+B000000972,Sample Product 972,Electronics|TV|Smart,₹1995,₹6862,28%,2.5,"38,738",Great quality product with nice features.,"It is okay, nothing special."
+B000000973,Sample Product 973,Home|Kitchen|Appliances,₹416,₹2954,67%,4.2,"9,266",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000974,Sample Product 974,Clothing|Men|Shirts,₹734,₹4174,78%,3.1,"48,630",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000975,Sample Product 975,Computers|Laptops|Gaming,₹2025,₹1877,61%,4.0,"5,455",Great quality product with nice features.,Do not buy this waste of money.
+B000000976,Sample Product 976,Clothing|Men|Shirts,₹2156,₹7201,12%,2.8,"35,919",Great quality product with nice features.,"It is okay, nothing special."
+B000000977,Sample Product 977,Clothing|Men|Shirts,₹3244,₹3097,66%,2.2,"26,182",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000978,Sample Product 978,Clothing|Men|Shirts,₹2370,₹641,33%,5.0,"15,387",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000979,Sample Product 979,Computers|Laptops|Gaming,₹1539,₹3159,78%,2.5,"39,183",Great quality product with nice features.,Do not buy this waste of money.
+B000000980,Sample Product 980,Clothing|Men|Shirts,₹652,₹5096,21%,5.0,"37,426",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000981,Sample Product 981,Clothing|Men|Shirts,₹815,₹9531,70%,4.9,"43,255",Great quality product with nice features.,Do not buy this waste of money.
+B000000982,Sample Product 982,Clothing|Men|Shirts,₹4011,₹6161,10%,4.4,"24,328",Great quality product with nice features.,"It is okay, nothing special."
+B000000983,Sample Product 983,Electronics|TV|Smart,₹1813,₹6642,62%,4.0,"21,182",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000984,Sample Product 984,Clothing|Men|Shirts,₹3489,₹6126,73%,3.7,"47,663",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000985,Sample Product 985,Computers|Laptops|Gaming,₹1207,₹9287,32%,4.6,"21,453",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000986,Sample Product 986,Clothing|Men|Shirts,₹4306,₹8972,66%,2.9,"38,249",Great quality product with nice features.,"It is okay, nothing special."
+B000000987,Sample Product 987,Clothing|Men|Shirts,₹350,₹923,45%,3.4,"40,802",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000988,Sample Product 988,Computers|Laptops|Gaming,₹2530,₹7499,73%,3.9,"33,752",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000989,Sample Product 989,Clothing|Men|Shirts,₹2154,₹4749,45%,3.2,"21,992",Great quality product with nice features.,"Terrible, broke after one day."
+B000000990,Sample Product 990,Computers|Laptops|Gaming,₹558,₹2250,53%,3.3,"41,312",Great quality product with nice features.,"Amazing product, totally worth it!"
+B000000991,Sample Product 991,Clothing|Men|Shirts,₹307,₹5257,53%,3.0,"9,917",Great quality product with nice features.,Do not buy this waste of money.
+B000000992,Sample Product 992,Computers|Laptops|Gaming,₹999,₹2467,75%,3.7,"10,144",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000993,Sample Product 993,Clothing|Men|Shirts,₹3561,₹4588,7%,4.6,"25,856",Great quality product with nice features.,"Terrible, broke after one day."
+B000000994,Sample Product 994,Clothing|Men|Shirts,₹3485,₹4678,14%,2.6,"15,582",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000995,Sample Product 995,Electronics|TV|Smart,₹121,₹8289,39%,4.8,"1,908",Great quality product with nice features.,Really good for the price. Fast shipping.
+B000000996,Sample Product 996,Electronics|TV|Smart,₹509,₹3446,6%,4.1,"29,425",Great quality product with nice features.,"It is okay, nothing special."
+B000000997,Sample Product 997,Clothing|Men|Shirts,₹994,₹5894,28%,4.5,"23,309",Great quality product with nice features.,"It is okay, nothing special."
+B000000998,Sample Product 998,Clothing|Men|Shirts,₹614,₹8380,78%,3.7,"41,985",Great quality product with nice features.,"Terrible, broke after one day."
+B000000999,Sample Product 999,Home|Kitchen|Appliances,₹4209,₹5575,42%,4.3,"41,506",Great quality product with nice features.,"It is okay, nothing special."
